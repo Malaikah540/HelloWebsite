@@ -1,0 +1,2001 @@
+consumer_id,service_type,region,tenure_months,new_customer_price,renewal_price,is_anomaly,y_true,y_pred,anomaly_score
+CONS_08745,mobile,North West,1,20.12,21.65,False,False,False,-0.13016225887957306
+CONS_04886,subscription,Midlands,4,14.27,15.2,False,False,False,-0.09808761206717675
+CONS_03841,mobile,London,84,14.49,21.14,True,True,True,0.05264678826300184
+CONS_09525,broadband,Midlands,3,31.96,33.67,False,False,False,-0.11626839852011528
+CONS_05607,broadband,South East,28,33.64,36.34,False,False,False,-0.10943339395619817
+CONS_02452,mobile,South West,9,20.37,19.65,False,False,False,-0.11034532468791314
+CONS_08388,mobile,South East,11,21.89,19.54,False,False,False,-0.09896354520098244
+CONS_06530,broadband,London,12,20.66,21.74,False,False,False,-0.1028037482719264
+CONS_00981,subscription,South East,13,10.7,10.57,False,False,False,-0.09508383011247512
+CONS_09622,mobile,Midlands,2,19.78,19.26,False,False,False,-0.11074349686136054
+CONS_06597,broadband,South East,15,26.05,26.52,False,False,False,-0.1457189473062243
+CONS_09188,mobile,Midlands,8,28.97,30.03,False,False,False,-0.11293164385801963
+CONS_03420,subscription,Scotland,9,10.36,10.13,False,False,False,-0.07927600445755123
+CONS_08057,mobile,London,4,24.58,25.53,False,False,False,-0.12764360092448018
+CONS_04467,broadband,London,4,36.52,36.8,False,False,False,-0.06115631447722769
+CONS_05097,mobile,Midlands,4,19.18,18.57,False,False,False,-0.11913326876719155
+CONS_01468,broadband,South East,66,27.83,37.43,True,True,False,-0.017084187560529207
+CONS_02797,mobile,South West,12,15.58,15.96,False,False,False,-0.10031014243333547
+CONS_05488,broadband,Scotland,20,29.21,29.63,False,False,False,-0.1435503349269162
+CONS_04301,mobile,North East,57,23.25,23.47,False,False,False,-0.08377767171288591
+CONS_07362,subscription,London,16,13.4,13.47,False,False,False,-0.0942484112574074
+CONS_06819,broadband,South West,21,26.69,30.77,False,False,False,-0.11349535239845887
+CONS_03229,mobile,London,6,21.46,20.58,False,False,False,-0.11852564047381386
+CONS_06016,broadband,South East,37,28.75,28.34,False,False,False,-0.10602060524582657
+CONS_00430,subscription,Wales,14,7.49,8.15,False,False,True,0.002966885510912065
+CONS_09800,mobile,South East,42,22.73,25.28,False,False,False,-0.11975790049734181
+CONS_05626,mobile,Scotland,15,20.77,20.33,False,False,False,-0.14266201530216627
+CONS_01179,broadband,South West,17,39.68,39.84,False,False,False,-0.04332374338001732
+CONS_00915,subscription,North East,18,8.39,9.34,False,False,False,-0.0451495209863334
+CONS_00716,broadband,South East,22,31.27,31.13,False,False,False,-0.1276236462844555
+CONS_05394,mobile,Scotland,17,23.26,23.74,False,False,False,-0.14932098693521545
+CONS_04884,broadband,London,4,20.43,20.27,False,False,False,-0.08698706499252418
+CONS_03417,mobile,South West,22,24.18,25.55,False,False,False,-0.12414273017745875
+CONS_05251,mobile,Midlands,1,17.51,19.88,False,False,False,-0.10706738891251916
+CONS_01892,subscription,London,6,11.05,11.79,False,False,False,-0.08151999163487716
+CONS_04424,broadband,North East,18,27.53,27.69,False,False,False,-0.14173589187646596
+CONS_06890,mobile,Midlands,40,20.22,22.29,False,False,False,-0.1155771309191918
+CONS_00294,broadband,South East,20,21.46,23.44,False,False,False,-0.1295888608740564
+CONS_08879,broadband,North West,5,28.57,35.1,False,False,False,-0.09247389717544169
+CONS_07955,subscription,North East,8,9.47,9.98,False,False,False,-0.07350536913053457
+CONS_00539,broadband,North West,32,21.49,25.53,True,True,False,-0.09422572462168549
+CONS_05567,mobile,Midlands,10,21.37,22.47,False,False,False,-0.14888824261398098
+CONS_02177,mobile,North West,62,24.66,29.87,True,True,False,-0.06372315213737068
+CONS_01686,broadband,South West,120,23.2,33.36,True,True,True,0.07563782897580118
+CONS_04639,broadband,South East,84,37.76,44.05,False,False,True,0.03299080108893382
+CONS_00663,broadband,North East,3,20.76,25.61,False,False,False,-0.05762279268700854
+CONS_03696,mobile,South East,32,24.72,23.7,False,False,False,-0.11023313060494255
+CONS_06225,mobile,North West,9,19.29,20.77,False,False,False,-0.14472229166808415
+CONS_06022,subscription,Midlands,17,9.79,9.41,False,False,False,-0.059844119736847556
+CONS_02594,broadband,South East,72,26.15,26.79,False,False,False,-0.06642070933469885
+CONS_01060,mobile,London,16,34.29,34.63,False,False,False,-0.05481009377732948
+CONS_04546,broadband,Scotland,23,38.01,36.44,False,False,False,-0.06740669584067255
+CONS_06506,broadband,Midlands,17,23.41,21.67,False,False,False,-0.08724533657219785
+CONS_08764,mobile,South East,69,16.84,13.77,False,False,True,0.007914112542932061
+CONS_09888,subscription,Wales,10,13.04,13.72,False,False,False,-0.06146261199189573
+CONS_01038,mobile,North West,8,19.98,21.56,False,False,False,-0.1470167378689089
+CONS_09631,subscription,Midlands,19,14.18,14.05,False,False,False,-0.10437867762307729
+CONS_00100,subscription,South East,7,19.79,20.29,False,False,False,-0.08115939835468455
+CONS_00997,mobile,South East,1,19.91,20.41,False,False,False,-0.12866538777119996
+CONS_07642,subscription,North East,1,10.45,9.98,False,False,False,-0.04745751628903838
+CONS_02984,mobile,Scotland,70,23.58,21.56,False,False,False,-0.03784204862925622
+CONS_08870,mobile,London,22,23.85,22.99,False,False,False,-0.11573504205598834
+CONS_02329,mobile,South East,36,29.41,29.81,False,False,False,-0.10145640199312073
+CONS_05307,subscription,North West,41,10.07,14.68,True,True,True,0.023301447858283475
+CONS_08658,mobile,London,59,21.57,21.78,False,False,False,-0.08041360290478644
+CONS_07685,broadband,Scotland,6,28.39,34.08,False,False,False,-0.10851776762063131
+CONS_05274,subscription,Midlands,21,15.23,17.34,False,False,False,-0.08154851001364544
+CONS_02301,subscription,London,17,12.92,14.65,False,False,False,-0.07882072558577796
+CONS_05752,broadband,Midlands,8,25.21,28.19,False,False,False,-0.13077726841769016
+CONS_09701,broadband,London,120,19.49,26.01,True,True,True,0.07131428616922464
+CONS_07605,subscription,London,5,17.11,18.81,False,False,False,-0.07540196683567141
+CONS_00176,broadband,Midlands,13,28.15,28.41,False,False,False,-0.14024649027444186
+CONS_04425,mobile,South East,12,17.24,18.44,False,False,False,-0.13539330524126503
+CONS_05403,broadband,London,14,22.27,29.41,False,False,False,-0.036023992911198954
+CONS_03189,broadband,London,98,23.44,26.4,False,False,False,-0.023529560091727575
+CONS_04856,subscription,Wales,19,18.69,18.1,False,False,False,-0.03296406045486511
+CONS_07940,mobile,Midlands,14,32.88,33.01,False,False,False,-0.07852288093309245
+CONS_00105,subscription,Wales,50,12.25,12.28,False,False,False,-0.01838927144361613
+CONS_06237,mobile,South West,7,23.52,27.76,False,False,False,-0.10207278888590932
+CONS_04573,broadband,South East,118,25.56,24.89,False,False,True,0.004726464650351758
+CONS_00771,broadband,London,16,35.0,33.47,False,False,False,-0.07491265013396975
+CONS_01682,subscription,North West,19,11.21,10.78,False,False,False,-0.08772791013008518
+CONS_09304,mobile,South West,23,21.64,21.8,False,False,False,-0.12465246956794246
+CONS_00464,broadband,Midlands,15,33.04,35.08,False,False,False,-0.12244168274495681
+CONS_09659,subscription,South East,3,7.8,8.75,False,False,False,-0.02559906664095124
+CONS_00762,broadband,Midlands,7,32.62,33.21,False,False,False,-0.12044093308918075
+CONS_02992,subscription,North West,19,10.23,12.39,False,False,False,-0.06707398815522714
+CONS_04200,broadband,Scotland,13,31.12,34.67,False,False,False,-0.12866216224592864
+CONS_09312,mobile,Midlands,4,24.47,27.96,False,False,False,-0.12186028796950321
+CONS_05255,subscription,London,7,17.96,18.39,False,False,False,-0.08080308345229381
+CONS_08228,broadband,South East,3,25.33,24.4,False,False,False,-0.116120990092071
+CONS_06921,subscription,London,11,10.79,11.3,False,False,False,-0.08668592496486544
+CONS_08313,broadband,Scotland,4,21.63,25.37,False,False,False,-0.10513217699259653
+CONS_00337,broadband,Scotland,42,22.47,25.56,False,False,False,-0.09712441648529635
+CONS_07191,mobile,Wales,10,23.02,24.41,False,False,False,-0.08297006933374057
+CONS_07984,subscription,Midlands,43,10.22,12.17,True,True,False,-0.041827821373825014
+CONS_02290,broadband,South East,34,17.37,24.2,True,True,False,-0.006187404433317112
+CONS_09550,broadband,London,11,31.38,31.43,False,False,False,-0.11480631053967755
+CONS_07706,mobile,North West,9,29.02,32.94,False,False,False,-0.0970198937667624
+CONS_00317,broadband,South East,54,25.19,34.97,True,True,False,-0.009673011577861379
+CONS_04712,broadband,Scotland,25,25.87,31.65,False,False,False,-0.09636046952967486
+CONS_04701,subscription,North East,5,11.05,14.18,False,False,False,-0.02774511674458724
+CONS_05316,broadband,Scotland,20,33.09,29.88,False,False,False,-0.08284966087618528
+CONS_03054,subscription,North West,13,11.55,12.46,False,False,False,-0.11147835546720009
+CONS_03783,subscription,Midlands,18,12.99,14.05,False,False,False,-0.10979466777176317
+CONS_01969,mobile,North West,22,13.13,14.25,False,False,False,-0.09773244271721704
+CONS_08957,mobile,North West,71,22.27,29.98,True,True,False,-0.010464039649633716
+CONS_06073,broadband,North West,20,20.05,23.79,False,False,False,-0.09879398750854773
+CONS_04576,broadband,South East,12,37.21,31.69,False,False,False,-0.028083213203710433
+CONS_02227,mobile,London,13,25.63,25.87,False,False,False,-0.12752637456949928
+CONS_02454,subscription,Midlands,15,8.71,9.04,False,False,False,-0.058484414379195604
+CONS_02932,broadband,Scotland,3,26.14,27.23,False,False,False,-0.13855568259948176
+CONS_03595,broadband,Midlands,36,35.82,43.58,True,True,False,-0.01005872065768243
+CONS_00243,broadband,South East,5,25.93,26.73,False,False,False,-0.13928730561628466
+CONS_01893,mobile,Scotland,9,39.24,41.02,False,False,False,-0.020397570053168224
+CONS_03327,mobile,South West,49,20.77,21.22,False,False,False,-0.0971445135516833
+CONS_06129,mobile,North West,17,21.09,24.35,False,False,False,-0.13650658177246294
+CONS_07599,mobile,London,9,14.48,15.61,False,False,False,-0.09623301563769893
+CONS_08219,mobile,North West,4,22.44,21.97,False,False,False,-0.1339633356204315
+CONS_02354,mobile,Wales,67,28.11,28.63,False,False,False,-0.025936146514797476
+CONS_09056,subscription,Scotland,10,12.18,12.88,False,False,False,-0.11451517701461844
+CONS_04457,broadband,South East,75,34.24,46.77,True,True,True,0.04383863562848844
+CONS_09049,subscription,South East,26,13.36,12.75,False,False,False,-0.07773857571962944
+CONS_00856,mobile,South East,28,33.23,36.29,False,False,False,-0.06581220097441809
+CONS_08503,broadband,Midlands,12,27.1,28.14,False,False,False,-0.14276196008999875
+CONS_02084,broadband,Midlands,5,25.11,26.89,False,False,False,-0.13932361878445126
+CONS_06504,subscription,Midlands,4,14.24,12.26,False,False,False,-0.032863827488087693
+CONS_05149,subscription,South East,49,13.16,13.06,False,False,False,-0.0723393180901808
+CONS_05208,subscription,South West,1,11.57,13.25,False,False,False,-0.04946151570530155
+CONS_00499,broadband,Wales,9,31.12,30.12,False,False,False,-0.06753646597985902
+CONS_03840,broadband,North West,8,27.45,27.62,False,False,False,-0.14460503407715053
+CONS_04896,mobile,South West,66,21.34,28.07,True,True,False,-0.012898451974947656
+CONS_07623,broadband,Midlands,88,24.28,28.17,False,False,False,-0.04043309803547901
+CONS_08054,mobile,London,9,18.76,19.0,False,False,False,-0.12607267241083508
+CONS_03015,broadband,South East,8,33.11,33.95,False,False,False,-0.12431676638048711
+CONS_01018,subscription,North West,2,14.27,14.18,False,False,False,-0.09356536577552599
+CONS_07053,broadband,Midlands,16,34.83,34.61,False,False,False,-0.10148364155128575
+CONS_00787,subscription,Midlands,21,18.22,20.6,False,False,False,-0.07125433703646294
+CONS_00822,mobile,London,22,30.88,34.24,False,False,False,-0.06625275012619297
+CONS_08777,mobile,London,22,17.48,18.15,False,False,False,-0.12044605002691683
+CONS_08277,mobile,South East,72,23.44,31.35,True,True,False,-0.015105833122607493
+CONS_04102,mobile,South East,11,25.43,24.76,False,False,False,-0.13349459933095004
+CONS_05868,mobile,London,1,24.46,25.94,False,False,False,-0.11031638094997115
+CONS_09789,broadband,Midlands,18,30.85,33.87,False,False,False,-0.12447701470337996
+CONS_02563,mobile,Midlands,24,18.42,18.22,False,False,False,-0.12320828267209327
+CONS_08856,broadband,North West,7,37.75,34.99,False,False,False,-0.059758571674201066
+CONS_01074,subscription,South East,38,18.1,19.51,False,False,False,-0.07675193330082858
+CONS_08308,mobile,South East,78,16.34,21.5,True,True,False,-0.010168693267178952
+CONS_08476,broadband,South East,16,22.12,24.28,False,False,False,-0.1344688743459821
+CONS_02579,broadband,South East,15,22.63,23.43,False,False,False,-0.1341778111539838
+CONS_00831,mobile,Midlands,6,19.9,21.9,False,False,False,-0.13731531999985597
+CONS_00445,broadband,Scotland,12,27.72,28.77,False,False,False,-0.14864275140008637
+CONS_05081,broadband,South East,16,21.21,18.89,False,False,False,-0.06287311471463675
+CONS_08070,subscription,South East,10,12.11,14.65,False,False,False,-0.07593831099926707
+CONS_03769,mobile,South East,4,30.2,35.27,False,False,False,-0.07317721482330908
+CONS_01405,broadband,Wales,2,18.89,21.18,False,False,False,-0.0402468653275464
+CONS_00767,broadband,South East,8,28.96,24.97,False,False,False,-0.07051507091467524
+CONS_03600,mobile,Wales,10,18.26,18.35,False,False,False,-0.07969298642498485
+CONS_08444,mobile,Scotland,8,26.27,27.16,False,False,False,-0.14445639844328179
+CONS_08399,subscription,South West,15,13.53,15.29,False,False,False,-0.0836679738417706
+CONS_01108,broadband,North West,16,27.58,27.81,False,False,False,-0.1482531816594711
+CONS_08331,broadband,London,20,20.22,19.46,False,False,False,-0.0788913513198824
+CONS_04371,broadband,Wales,9,50.73,60.78,False,False,True,0.09012611649485769
+CONS_07570,subscription,Midlands,7,13.32,15.44,False,False,False,-0.08096312271218559
+CONS_08540,broadband,South East,15,29.45,39.87,False,False,False,-0.03262816140905811
+CONS_04016,mobile,North West,49,27.26,26.88,False,False,False,-0.09117433250051116
+CONS_01234,mobile,Midlands,23,11.86,12.7,False,False,False,-0.08516835241357429
+CONS_05788,subscription,South East,6,16.91,18.37,False,False,False,-0.09040884856969766
+CONS_04491,mobile,Midlands,12,26.11,27.33,False,False,False,-0.140505821403747
+CONS_06141,broadband,Scotland,24,21.92,25.8,False,False,False,-0.11222718879186816
+CONS_01790,broadband,London,12,34.57,42.74,False,False,False,-0.016847467724726117
+CONS_08016,broadband,Scotland,12,35.68,38.3,False,False,False,-0.09972817240369353
+CONS_08967,mobile,Midlands,7,23.68,27.4,False,False,False,-0.12280800468447955
+CONS_04885,subscription,Midlands,9,15.18,19.32,False,False,False,-0.025635597495147877
+CONS_00152,subscription,South West,8,9.31,9.61,False,False,False,-0.047810385200147354
+CONS_09248,broadband,Scotland,12,39.46,42.9,False,False,False,-0.058114406145036046
+CONS_07421,broadband,Scotland,5,32.89,33.97,False,False,False,-0.12548136627985446
+CONS_07230,subscription,Midlands,13,8.94,9.79,False,False,False,-0.062117454964615626
+CONS_05774,mobile,London,3,19.71,21.74,False,False,False,-0.12078742685056953
+CONS_02790,broadband,South East,78,28.15,37.0,True,True,False,-0.007047496924089014
+CONS_03195,mobile,South East,11,20.68,21.32,False,False,False,-0.15115207280890258
+CONS_05935,broadband,South East,61,27.94,32.05,False,False,False,-0.07909526412295476
+CONS_01816,mobile,Midlands,35,17.27,17.66,False,False,False,-0.1109912144397035
+CONS_04819,mobile,Scotland,23,19.71,19.04,False,False,False,-0.12768524460069325
+CONS_07834,mobile,London,19,22.26,21.52,False,False,False,-0.12470031023954681
+CONS_08914,mobile,Midlands,3,31.25,29.51,False,False,False,-0.06823290606309829
+CONS_04477,mobile,North West,16,32.62,32.42,False,False,False,-0.08807692436143644
+CONS_07748,mobile,Midlands,4,26.31,30.02,False,False,False,-0.11137086926549222
+CONS_08863,subscription,South West,18,12.81,13.06,False,False,False,-0.09283160748707625
+CONS_09715,broadband,London,37,29.09,29.48,False,False,False,-0.08634703431880847
+CONS_06871,mobile,North East,7,23.65,23.78,False,False,False,-0.13510319313146002
+CONS_04349,mobile,North East,10,39.24,36.84,False,False,False,-0.01165957945396956
+CONS_04851,broadband,Scotland,18,41.41,51.59,False,False,True,0.04104637514692888
+CONS_07603,mobile,London,19,24.47,25.15,False,False,False,-0.13035624576922927
+CONS_05691,mobile,London,12,23.19,21.61,False,False,False,-0.1047934830254107
+CONS_06425,broadband,Midlands,6,29.42,28.8,False,False,False,-0.12968555505548274
+CONS_02165,subscription,London,6,10.6,10.82,False,False,False,-0.07868273584418084
+CONS_04842,mobile,North West,1,18.57,17.99,False,False,False,-0.10979678008896465
+CONS_03889,subscription,Midlands,120,13.67,14.34,False,False,True,0.015439668848668542
+CONS_00264,broadband,South East,13,31.16,34.5,False,False,False,-0.1336198505283286
+CONS_05628,subscription,Wales,8,9.57,9.67,False,False,False,-0.017662893223387766
+CONS_01781,broadband,London,33,15.85,20.3,True,True,True,0.004336146110274219
+CONS_06299,broadband,South East,9,24.55,25.31,False,False,False,-0.13678762029891245
+CONS_01975,broadband,London,10,21.45,22.41,False,False,False,-0.10795657215783983
+CONS_02870,broadband,London,29,31.4,29.24,False,False,False,-0.05455223495286843
+CONS_05683,broadband,London,119,29.23,29.03,False,False,True,0.013667136679076264
+CONS_01753,subscription,Wales,3,9.95,10.29,False,False,False,-0.023352649737635955
+CONS_00995,subscription,South West,6,10.6,10.93,False,False,False,-0.07071551301481771
+CONS_09844,mobile,Scotland,12,28.67,35.6,False,False,False,-0.05679516650179639
+CONS_09987,subscription,Midlands,4,11.15,11.6,False,False,False,-0.08898714143299558
+CONS_07627,subscription,North West,14,11.89,12.44,False,False,False,-0.11237893073403726
+CONS_08828,subscription,North West,1,12.05,12.44,False,False,False,-0.08827735766191952
+CONS_05484,broadband,London,10,27.61,31.97,False,False,False,-0.10442454685127323
+CONS_07879,subscription,London,13,15.35,16.3,False,False,False,-0.0925637939090746
+CONS_09401,mobile,Wales,21,20.92,21.79,False,False,False,-0.09014523436167826
+CONS_04822,broadband,Scotland,3,30.88,32.03,False,False,False,-0.13036670913607146
+CONS_09484,mobile,South West,25,17.35,20.42,False,False,False,-0.09391798144988206
+CONS_00304,mobile,Scotland,118,18.37,27.01,True,True,True,0.05177578553843132
+CONS_05780,broadband,North West,1,21.61,19.52,False,False,False,-0.051531516144864065
+CONS_08576,mobile,North West,107,33.06,33.48,False,False,True,0.032794239299109296
+CONS_05654,broadband,South East,11,23.9,27.34,False,False,False,-0.13319179896532723
+CONS_06179,broadband,South East,38,35.46,38.61,False,False,False,-0.07671211163774466
+CONS_04730,mobile,North West,14,19.69,18.54,False,False,False,-0.1206897565492262
+CONS_04662,subscription,North West,40,19.73,25.01,True,True,False,-0.01656486035795368
+CONS_09952,subscription,Scotland,12,14.32,14.77,False,False,False,-0.11786848640736403
+CONS_07215,subscription,South East,31,9.97,13.17,True,True,False,-0.010297931394121829
+CONS_04140,subscription,Midlands,7,11.99,13.22,False,False,False,-0.0992820982594545
+CONS_03565,subscription,Wales,50,10.06,12.68,True,True,True,0.02950545860541598
+CONS_03187,mobile,London,17,18.42,19.09,False,False,False,-0.13090379024931953
+CONS_03059,broadband,North West,20,27.91,29.52,False,False,False,-0.1470782614099953
+CONS_04423,mobile,North West,6,27.71,28.08,False,False,False,-0.1297371670021129
+CONS_06178,broadband,Midlands,2,29.53,28.03,False,False,False,-0.10686194034574148
+CONS_08121,broadband,Midlands,24,30.2,28.51,False,False,False,-0.10174804782203978
+CONS_07050,broadband,London,12,34.61,34.25,False,False,False,-0.090945461033266
+CONS_05335,broadband,South East,22,22.06,24.14,False,False,False,-0.13218128194475492
+CONS_05565,subscription,Scotland,10,17.78,19.47,False,False,False,-0.0962422793670415
+CONS_04635,mobile,London,12,17.53,19.5,False,False,False,-0.12199799095043351
+CONS_07731,mobile,North West,52,19.52,18.9,False,False,False,-0.08594407262157433
+CONS_02190,subscription,London,18,12.05,12.8,False,False,False,-0.0902509172256819
+CONS_06495,subscription,London,120,16.15,15.8,False,False,True,0.03994168158540301
+CONS_03692,mobile,Midlands,62,19.84,22.89,False,False,False,-0.07258085864197322
+CONS_09103,mobile,Wales,23,25.74,30.1,False,False,False,-0.056698481907721976
+CONS_06926,broadband,North East,1,25.16,23.5,False,False,False,-0.08586756542804963
+CONS_03524,broadband,South East,12,26.23,26.2,False,False,False,-0.13865555597448354
+CONS_07736,broadband,North East,5,35.28,35.27,False,False,False,-0.09913137923954163
+CONS_08528,mobile,South East,27,26.06,33.64,True,True,False,-0.05885966059026959
+CONS_08379,mobile,South West,24,21.62,23.2,False,False,False,-0.12351438138885806
+CONS_09446,broadband,Scotland,16,23.6,24.3,False,False,False,-0.14441227411038604
+CONS_09158,broadband,Midlands,26,30.68,46.29,True,True,True,0.04086475622181851
+CONS_05773,broadband,Midlands,22,20.48,21.02,False,False,False,-0.10676916550122167
+CONS_04917,mobile,Midlands,105,22.7,25.12,False,False,False,-0.03304689271216532
+CONS_00929,mobile,South West,6,21.22,23.61,False,False,False,-0.12254323735315686
+CONS_04722,mobile,South East,5,20.37,24.36,False,False,False,-0.12127118153094119
+CONS_02740,mobile,Midlands,16,21.07,23.01,False,False,False,-0.14414374394964646
+CONS_00581,mobile,Midlands,21,29.73,32.43,False,False,False,-0.09848128991812882
+CONS_06503,mobile,London,22,17.01,15.44,False,False,False,-0.0669189746263158
+CONS_03671,broadband,South West,13,34.94,34.67,False,False,False,-0.08896436659336993
+CONS_06661,broadband,London,10,20.86,19.64,False,False,False,-0.07114778584945097
+CONS_05578,mobile,London,27,22.24,23.82,False,False,False,-0.1236688310768786
+CONS_04072,mobile,Midlands,7,21.1,27.46,False,False,False,-0.0651031382543984
+CONS_03090,subscription,Midlands,9,13.15,12.53,False,False,False,-0.0892374122373602
+CONS_04814,subscription,London,20,9.32,9.39,False,False,False,-0.048912673105529825
+CONS_03931,mobile,South West,103,19.82,18.74,False,False,True,0.006704775364086424
+CONS_01107,broadband,Midlands,19,26.45,26.39,False,False,False,-0.13629681572426194
+CONS_00344,mobile,North East,6,20.57,20.8,False,False,False,-0.1370607806244058
+CONS_02464,mobile,London,1,24.85,24.0,False,False,False,-0.10466422000339587
+CONS_03719,subscription,Wales,11,8.03,7.65,False,False,True,0.013573359191120016
+CONS_04939,mobile,Midlands,56,23.34,25.33,False,False,False,-0.09508094698303204
+CONS_01791,subscription,Midlands,77,13.51,14.09,False,False,False,-0.039575058108498595
+CONS_06955,mobile,Wales,15,21.55,24.49,False,False,False,-0.08241735208138001
+CONS_08155,mobile,North West,15,30.58,31.04,False,False,False,-0.10505102585309861
+CONS_06355,broadband,Midlands,23,25.37,24.79,False,False,False,-0.12274293715300544
+CONS_03916,broadband,Wales,26,35.78,47.65,True,True,True,0.05545149104546032
+CONS_02999,subscription,South West,20,12.65,14.0,False,False,False,-0.08902455799842218
+CONS_01966,broadband,London,15,27.97,28.98,False,False,False,-0.12638720563832878
+CONS_08229,subscription,London,9,11.29,11.15,False,False,False,-0.07996221375544016
+CONS_00855,broadband,South West,45,26.64,28.02,False,False,False,-0.09472702089039381
+CONS_07110,broadband,Scotland,18,32.1,35.69,False,False,False,-0.1258919561031317
+CONS_00894,broadband,North West,50,25.24,30.81,True,True,False,-0.06860478639347417
+CONS_08451,subscription,London,15,10.89,11.97,False,False,False,-0.08750487076174945
+CONS_02733,mobile,South East,12,19.47,21.78,False,False,False,-0.14476622761757546
+CONS_00891,broadband,South East,3,42.83,40.65,False,False,False,-0.012416482125922723
+CONS_00965,subscription,Scotland,120,14.76,14.96,False,False,True,0.019179625505385545
+CONS_07315,broadband,North West,48,28.61,33.45,False,False,False,-0.08546186122336957
+CONS_03437,broadband,South East,8,31.52,30.27,False,False,False,-0.11511723622733339
+CONS_00456,broadband,Midlands,15,23.48,24.66,False,False,False,-0.13881491294045084
+CONS_06366,broadband,London,24,17.77,18.72,False,False,False,-0.07291254751934528
+CONS_00439,mobile,South West,14,24.25,25.74,False,False,False,-0.12885631765560224
+CONS_07636,broadband,Wales,8,24.72,23.16,False,False,False,-0.0570083576466589
+CONS_05465,broadband,Midlands,12,29.48,32.4,False,False,False,-0.12686183625555886
+CONS_05512,mobile,Scotland,16,26.01,25.22,False,False,False,-0.1358071499003186
+CONS_02245,broadband,South West,15,29.05,30.32,False,False,False,-0.13036169080697158
+CONS_09618,broadband,North West,4,22.08,21.73,False,False,False,-0.10720551783727428
+CONS_08134,subscription,South East,11,11.52,12.85,False,False,False,-0.1022173266958028
+CONS_05025,mobile,Midlands,7,16.43,16.61,False,False,False,-0.11493487826285126
+CONS_01868,broadband,Midlands,63,19.91,24.29,True,True,False,-0.019100320457444142
+CONS_07606,subscription,North West,14,14.41,14.69,False,False,False,-0.11540167757871417
+CONS_09644,broadband,London,19,27.36,29.13,False,False,False,-0.127433400211922
+CONS_02003,subscription,London,8,13.33,15.42,False,False,False,-0.06932690861729923
+CONS_06732,mobile,Scotland,9,34.7,32.92,False,False,False,-0.05381662323537273
+CONS_06007,mobile,Midlands,47,25.79,31.72,True,True,False,-0.059788726855225405
+CONS_00007,subscription,North West,40,11.97,12.84,False,False,False,-0.0855468087611172
+CONS_04691,mobile,South West,56,19.54,20.49,False,False,False,-0.0845248995527707
+CONS_02173,mobile,South East,120,16.42,18.21,False,False,False,-0.0030078069885643988
+CONS_04445,broadband,Wales,16,22.32,25.92,False,False,False,-0.06546671880892163
+CONS_02440,subscription,North West,14,11.96,12.81,False,False,False,-0.11200209628592261
+CONS_06773,mobile,North East,8,20.66,22.89,False,False,False,-0.13704626108342
+CONS_09513,broadband,North West,23,20.51,22.58,False,False,False,-0.11676553355563773
+CONS_07519,broadband,South East,16,32.82,30.95,False,False,False,-0.09742374471042159
+CONS_02803,broadband,London,16,26.48,33.06,False,False,False,-0.06865864941831573
+CONS_02619,subscription,South East,15,14.79,15.3,False,False,False,-0.11009463348089155
+CONS_01423,mobile,Wales,16,23.7,23.14,False,False,False,-0.08177039927936636
+CONS_01705,mobile,London,24,19.48,22.5,False,False,False,-0.10964001728454531
+CONS_00256,mobile,South East,6,27.08,27.94,False,False,False,-0.138195539920607
+CONS_09360,broadband,Scotland,7,18.13,20.52,False,False,False,-0.08476330233548035
+CONS_02597,broadband,North East,10,26.38,24.61,False,False,False,-0.10872245544404929
+CONS_06346,mobile,London,3,15.86,16.34,False,False,False,-0.09689465951365706
+CONS_04238,subscription,Scotland,120,12.56,15.38,True,True,True,0.04502458192370595
+CONS_06434,subscription,South West,49,13.1,15.58,True,True,False,-0.04115023681599972
+CONS_02315,broadband,Midlands,2,32.91,36.5,False,False,False,-0.09595762762266086
+CONS_06507,subscription,South East,14,10.05,12.08,False,False,False,-0.07255076041118519
+CONS_04859,broadband,South East,26,21.12,20.6,False,False,False,-0.09702306769839542
+CONS_02727,subscription,South West,20,7.9,8.34,False,False,False,-0.02651480888241098
+CONS_01297,broadband,Midlands,14,22.77,24.6,False,False,False,-0.13317593548085355
+CONS_00223,mobile,Wales,23,25.78,28.22,False,False,False,-0.07292838006855284
+CONS_07188,broadband,North East,5,41.99,44.56,False,False,False,-0.027240870520442884
+CONS_03297,subscription,North West,18,10.26,9.54,False,False,False,-0.047504055741293016
+CONS_02977,mobile,Wales,3,20.05,20.77,False,False,False,-0.08396465556664301
+CONS_01738,broadband,Midlands,14,24.73,26.0,False,False,False,-0.14072903948188037
+CONS_09316,subscription,London,3,15.76,16.64,False,False,False,-0.07649120141450366
+CONS_05798,subscription,Midlands,41,20.6,20.82,False,False,False,-0.059897826416300926
+CONS_09879,broadband,London,19,27.66,32.48,False,False,False,-0.09969192233893104
+CONS_02228,broadband,North West,11,30.68,33.23,False,False,False,-0.13487373844030814
+CONS_08774,subscription,Scotland,35,12.84,13.63,False,False,False,-0.09832099845323128
+CONS_01390,broadband,South East,10,31.02,31.03,False,False,False,-0.13149842956527513
+CONS_05422,mobile,South East,58,26.97,34.22,True,True,False,-0.02971132460643966
+CONS_05944,subscription,Midlands,11,16.74,19.64,False,False,False,-0.06335985013699652
+CONS_07920,mobile,South East,16,22.91,22.28,False,False,False,-0.1408514869383672
+CONS_05688,broadband,South East,118,22.68,25.22,False,False,False,-0.004671927656447528
+CONS_01500,mobile,North West,79,14.95,19.56,True,True,True,0.003505186261953952
+CONS_02022,broadband,North West,3,23.4,29.04,False,False,False,-0.0815646079608463
+CONS_08731,broadband,South West,23,23.01,24.25,False,False,False,-0.1205561927240027
+CONS_07913,mobile,South East,49,20.09,19.67,False,False,False,-0.10302812822416346
+CONS_09476,subscription,South West,5,19.32,23.34,False,False,False,-0.03916238542703465
+CONS_01174,subscription,North East,99,14.41,16.62,False,False,True,0.009085469790032441
+CONS_00201,subscription,Wales,21,7.24,7.6,False,False,True,0.007224112914963943
+CONS_07699,broadband,Midlands,79,34.12,43.3,True,True,True,0.025016518657554054
+CONS_06086,subscription,Scotland,2,14.32,14.51,False,False,False,-0.09520722063621506
+CONS_09563,broadband,London,120,27.97,26.81,False,False,True,0.016116276950070785
+CONS_01270,mobile,London,22,20.07,20.27,False,False,False,-0.12667863903751486
+CONS_00186,mobile,London,8,28.34,29.51,False,False,False,-0.1060353161579512
+CONS_01668,broadband,South West,13,22.81,19.64,False,False,False,-0.041939562467104174
+CONS_08686,broadband,South East,18,24.95,25.26,False,False,False,-0.1414867014659587
+CONS_01082,subscription,Midlands,65,11.43,10.85,False,False,False,-0.022292248765762745
+CONS_09679,mobile,Wales,118,16.32,22.74,True,True,True,0.07637363588061452
+CONS_07391,broadband,Scotland,30,32.88,35.64,False,False,False,-0.10411393601393593
+CONS_03847,mobile,Midlands,12,31.12,32.1,False,False,False,-0.09089139278943975
+CONS_00848,mobile,London,60,20.04,21.04,False,False,False,-0.08140241154670719
+CONS_02166,broadband,London,22,27.47,29.56,False,False,False,-0.117228328952456
+CONS_06082,broadband,Midlands,19,29.9,31.12,False,False,False,-0.13825385191252326
+CONS_07028,broadband,South East,19,34.24,33.67,False,False,False,-0.10775591264124029
+CONS_01100,broadband,North West,89,25.37,31.66,True,True,False,-0.02482847306227054
+CONS_03399,mobile,Scotland,4,22.8,23.23,False,False,False,-0.1418037548427331
+CONS_07003,mobile,London,11,27.88,27.36,False,False,False,-0.10640592179970199
+CONS_05401,mobile,South East,13,35.73,33.65,False,False,False,-0.03633040498909079
+CONS_07454,mobile,London,21,20.95,21.43,False,False,False,-0.13370053373448904
+CONS_09438,subscription,Wales,9,13.34,13.51,False,False,False,-0.05965869771543697
+CONS_07804,mobile,Midlands,1,29.28,30.21,False,False,False,-0.0941375609789496
+CONS_00180,mobile,Wales,9,21.56,22.55,False,False,False,-0.09313426015997783
+CONS_09549,mobile,Scotland,16,20.05,20.4,False,False,False,-0.14992855451919235
+CONS_00173,broadband,South West,49,36.11,36.69,False,False,False,-0.03153014710925395
+CONS_03799,mobile,London,12,24.04,26.85,False,False,False,-0.12451425810102579
+CONS_03672,mobile,South West,10,20.58,20.4,False,False,False,-0.12359187780709652
+CONS_00812,broadband,Scotland,15,30.89,35.94,False,False,False,-0.11704792818501542
+CONS_09423,mobile,South West,1,21.31,23.99,False,False,False,-0.10706485436574154
+CONS_00419,broadband,London,17,27.35,31.15,False,False,False,-0.11479855443007014
+CONS_02085,mobile,South West,10,30.8,32.57,False,False,False,-0.07586405801243928
+CONS_07602,subscription,South East,34,8.75,10.85,True,True,False,-0.01149605340849369
+CONS_06468,mobile,North East,46,27.41,29.38,False,False,False,-0.0936901850666445
+CONS_01506,mobile,South East,17,19.72,20.91,False,False,False,-0.15194026512081626
+CONS_04389,mobile,South East,20,29.56,32.08,False,False,False,-0.11392451853050345
+CONS_02493,broadband,North West,40,27.95,35.31,True,True,False,-0.06176230230086621
+CONS_03056,mobile,South East,48,20.35,20.38,False,False,False,-0.1169104429360166
+CONS_02471,mobile,Midlands,9,24.11,23.75,False,False,False,-0.13137610649304432
+CONS_01417,mobile,Midlands,9,17.94,18.73,False,False,False,-0.1356129384819773
+CONS_07863,broadband,London,1,28.86,31.23,False,False,False,-0.1012106629036445
+CONS_01272,broadband,South East,1,25.43,26.56,False,False,False,-0.12869624924980455
+CONS_07644,mobile,South West,120,27.76,28.45,False,False,True,0.0033659157270400364
+CONS_00580,broadband,London,14,27.59,26.15,False,False,False,-0.10556930420322025
+CONS_05223,broadband,Midlands,11,23.61,27.9,False,False,False,-0.11745160618223066
+CONS_05289,broadband,Midlands,3,21.78,20.06,False,False,False,-0.06696547334344372
+CONS_06493,subscription,Scotland,13,14.94,15.24,False,False,False,-0.1125627395813803
+CONS_03447,mobile,North East,7,22.36,23.76,False,False,False,-0.1398589257986419
+CONS_02260,mobile,Midlands,24,21.0,20.54,False,False,False,-0.12649941467176462
+CONS_06187,mobile,Scotland,7,22.09,21.46,False,False,False,-0.13874313033544555
+CONS_06311,broadband,Midlands,8,32.8,34.82,False,False,False,-0.12077777131569489
+CONS_02291,subscription,Midlands,15,9.98,10.0,False,False,False,-0.08411483327357322
+CONS_08353,subscription,Scotland,2,11.63,14.71,False,False,False,-0.029210048230458363
+CONS_05887,broadband,North East,12,23.26,25.85,False,False,False,-0.12435004597505994
+CONS_05577,subscription,North East,8,13.88,15.03,False,False,False,-0.10768469860683
+CONS_08350,broadband,South East,9,23.63,25.35,False,False,False,-0.14131328760188333
+CONS_05317,broadband,Midlands,13,28.4,30.04,False,False,False,-0.14234353018000157
+CONS_03177,subscription,North West,4,11.67,13.93,False,False,False,-0.07254197622504527
+CONS_04069,subscription,Wales,15,10.07,8.78,False,False,True,0.030484445032405882
+CONS_05227,broadband,South East,11,16.73,18.78,False,False,False,-0.0745172509255333
+CONS_09498,broadband,South West,11,25.64,23.7,False,False,False,-0.08881733448659607
+CONS_06687,subscription,North East,4,16.73,15.49,False,False,False,-0.052437127019748786
+CONS_07389,broadband,Scotland,28,30.44,36.77,True,True,False,-0.08229355999727128
+CONS_05547,subscription,Scotland,16,8.97,9.35,False,False,False,-0.06652750396779517
+CONS_03429,subscription,London,6,8.75,7.95,False,False,False,-0.002571665521392208
+CONS_09442,subscription,London,13,10.23,9.86,False,False,False,-0.05539459155400617
+CONS_02102,broadband,North West,24,34.24,43.3,False,False,False,-0.019171378884174972
+CONS_00426,subscription,North West,88,15.23,17.56,False,False,False,-0.011521247328378115
+CONS_05356,subscription,North West,19,9.8,9.96,False,False,False,-0.08339886588300138
+CONS_08858,subscription,North East,17,8.18,8.97,False,False,False,-0.04663217766473382
+CONS_08716,broadband,South West,3,20.08,21.36,False,False,False,-0.08896243763997147
+CONS_01783,broadband,Scotland,26,28.07,30.55,False,False,False,-0.1364027011270637
+CONS_01007,subscription,Midlands,1,11.06,11.4,False,False,False,-0.07699422602594486
+CONS_08684,subscription,North West,23,13.02,13.91,False,False,False,-0.11393315409306332
+CONS_07947,subscription,South East,4,9.59,9.31,False,False,False,-0.04455026143832652
+CONS_07719,subscription,South East,9,13.12,13.3,False,False,False,-0.10880281178187995
+CONS_03479,subscription,Midlands,19,12.9,13.47,False,False,False,-0.10721835015926545
+CONS_05909,broadband,South East,20,32.26,35.13,False,False,False,-0.12936809201674365
+CONS_06566,mobile,Midlands,22,21.67,22.36,False,False,False,-0.1432146452692355
+CONS_04589,mobile,Wales,18,13.51,12.95,False,False,False,-0.03250859112097082
+CONS_04080,mobile,Scotland,42,14.93,17.87,False,False,False,-0.06343066475799997
+CONS_00567,subscription,London,30,8.23,8.71,False,False,False,-0.01768208750950495
+CONS_04178,subscription,Midlands,35,13.96,13.46,False,False,False,-0.07661708691681957
+CONS_04154,mobile,London,25,26.54,28.2,False,False,False,-0.1133757805145032
+CONS_06924,mobile,Midlands,4,14.21,15.5,False,False,False,-0.10311051431162988
+CONS_06143,broadband,London,18,26.3,26.73,False,False,False,-0.12679040786323503
+CONS_03275,mobile,Wales,29,20.56,21.18,False,False,False,-0.08130844920066821
+CONS_09283,mobile,Midlands,20,22.89,29.93,False,False,False,-0.06232220881028494
+CONS_01787,broadband,Wales,2,38.62,42.21,False,False,True,0.005177961100014894
+CONS_00774,subscription,Scotland,7,20.02,20.9,False,False,False,-0.08949939587033429
+CONS_01352,subscription,North West,4,10.4,11.97,False,False,False,-0.07661648239318586
+CONS_02994,mobile,London,4,16.56,16.42,False,False,False,-0.09751880343077729
+CONS_05083,mobile,South East,23,20.43,23.06,False,False,False,-0.13980997149874452
+CONS_00837,subscription,South East,12,12.64,10.63,False,False,False,-0.021208800288121554
+CONS_00454,broadband,London,15,38.17,33.63,False,False,False,-0.02580054950150623
+CONS_07142,mobile,London,17,29.46,27.84,False,False,False,-0.08789205109956316
+CONS_07795,mobile,Midlands,23,20.94,24.79,False,False,False,-0.12054773086989107
+CONS_00111,mobile,South East,8,17.6,21.09,False,False,False,-0.11497820106497081
+CONS_05729,subscription,South West,21,11.46,11.32,False,False,False,-0.07282420385619698
+CONS_02834,subscription,London,18,8.92,8.76,False,False,False,-0.03653433873256495
+CONS_03100,broadband,North West,18,20.22,20.38,False,False,False,-0.11038954891423852
+CONS_01323,broadband,North West,19,33.22,37.4,False,False,False,-0.11341692517049567
+CONS_01221,broadband,South East,16,22.62,24.26,False,False,False,-0.14245964859756638
+CONS_09518,broadband,London,8,24.16,24.77,False,False,False,-0.12271314311103365
+CONS_07745,subscription,North West,44,9.04,10.1,False,False,False,-0.0315506648175391
+CONS_08742,mobile,London,12,17.36,22.8,False,False,False,-0.046985370249681524
+CONS_08631,mobile,South East,3,30.3,34.58,False,False,False,-0.08076243863428512
+CONS_05918,subscription,South East,11,17.57,20.62,False,False,False,-0.07064495367070484
+CONS_06059,subscription,Midlands,47,14.59,17.22,False,False,False,-0.04771421659556707
+CONS_01043,mobile,Midlands,38,16.78,21.83,True,True,False,-0.0402431098222924
+CONS_05169,broadband,London,1,25.28,20.32,False,False,False,-0.026265733366934274
+CONS_08781,mobile,Scotland,13,21.7,23.04,False,False,False,-0.15205725473051523
+CONS_00060,broadband,North East,9,20.89,22.92,False,False,False,-0.10937356960537814
+CONS_04004,broadband,South East,14,34.09,35.0,False,False,False,-0.11837858599899959
+CONS_08445,subscription,Midlands,10,10.37,11.54,False,False,False,-0.08500788547124438
+CONS_06536,broadband,London,2,20.9,21.21,False,False,False,-0.08334436944338042
+CONS_03030,broadband,South East,23,31.52,34.1,False,False,False,-0.1297880386761987
+CONS_05222,mobile,Wales,15,19.82,21.39,False,False,False,-0.09363985077350545
+CONS_02964,mobile,Midlands,24,16.9,17.02,False,False,False,-0.11810352099876259
+CONS_05112,mobile,South East,6,19.75,22.22,False,False,False,-0.13953475067190035
+CONS_01839,subscription,Wales,14,20.54,21.35,False,False,False,-0.042147596478927074
+CONS_00140,broadband,London,21,29.42,36.29,False,False,False,-0.05964266520225814
+CONS_05489,mobile,South East,20,23.36,26.27,False,False,False,-0.1429557527143786
+CONS_02401,mobile,Midlands,15,15.97,16.32,False,False,False,-0.12029416533566106
+CONS_03724,mobile,Midlands,91,21.89,22.06,False,False,False,-0.0494358614304129
+CONS_01290,mobile,South East,31,26.77,28.24,False,False,False,-0.12561382873574406
+CONS_08943,broadband,South East,19,28.01,26.49,False,False,False,-0.11878590573518483
+CONS_00041,mobile,London,17,27.07,30.39,False,False,False,-0.10974188220417935
+CONS_03970,broadband,Midlands,18,38.74,40.27,False,False,False,-0.05896436524803361
+CONS_09388,subscription,North West,14,14.41,13.8,False,False,False,-0.10055707735841296
+CONS_09429,mobile,North West,43,17.69,19.48,False,False,False,-0.10743729526336959
+CONS_08035,broadband,North West,16,26.24,28.78,False,False,False,-0.15179720816368414
+CONS_09755,mobile,North West,2,24.28,26.22,False,False,False,-0.12785072256938335
+CONS_08261,broadband,Midlands,17,25.62,24.96,False,False,False,-0.12768682806886905
+CONS_03922,subscription,North West,8,10.78,12.49,False,False,False,-0.08826004640102009
+CONS_02266,broadband,London,2,32.56,33.4,False,False,False,-0.08983898402912416
+CONS_08397,mobile,North West,14,17.34,18.07,False,False,False,-0.14081114839442577
+CONS_07077,broadband,London,9,31.91,30.53,False,False,False,-0.09442806101635765
+CONS_02331,mobile,South East,6,21.88,21.36,False,False,False,-0.13596003713149185
+CONS_07504,mobile,Scotland,2,27.75,29.55,False,False,False,-0.12155538584036041
+CONS_06857,broadband,South East,8,29.84,32.79,False,False,False,-0.13757720982113614
+CONS_08524,mobile,London,7,30.4,31.63,False,False,False,-0.08668965026711256
+CONS_06766,mobile,North East,3,26.53,24.64,False,False,False,-0.09556561365547217
+CONS_08344,broadband,Scotland,44,30.04,34.76,False,False,False,-0.08768694702122432
+CONS_07675,mobile,Midlands,17,17.49,18.82,False,False,False,-0.13835136102996348
+CONS_04967,broadband,Midlands,23,28.6,31.32,False,False,False,-0.13146191247793898
+CONS_09558,mobile,South West,17,28.24,25.19,False,False,False,-0.07114370567191758
+CONS_07241,mobile,South East,2,16.87,19.62,False,False,False,-0.10481661490618333
+CONS_01700,mobile,Midlands,21,15.55,16.17,False,False,False,-0.11339721526338808
+CONS_08129,mobile,North East,3,19.01,20.61,False,False,False,-0.12845847905786983
+CONS_04944,subscription,London,19,15.6,17.83,False,False,False,-0.06237424840721051
+CONS_04206,subscription,London,48,13.36,16.61,True,True,False,-0.009045418804126792
+CONS_02786,mobile,South East,30,29.77,37.61,False,False,False,-0.026369330965709925
+CONS_04350,subscription,South West,9,10.28,11.15,False,False,False,-0.07128043147094493
+CONS_06994,mobile,Midlands,5,16.56,18.08,False,False,False,-0.12180906144547715
+CONS_06038,broadband,South East,10,32.01,32.52,False,False,False,-0.1330340015472572
+CONS_08408,mobile,North West,71,23.75,26.4,False,False,False,-0.08140578776630625
+CONS_04469,subscription,South East,5,15.59,17.05,False,False,False,-0.099741069052874
+CONS_08878,mobile,London,11,19.58,21.52,False,False,False,-0.1298088207870408
+CONS_09903,mobile,North East,8,19.87,25.74,False,False,False,-0.06512719404732181
+CONS_05185,broadband,North East,59,20.05,20.3,False,False,False,-0.04990220572698156
+CONS_04485,subscription,North West,3,9.79,9.3,False,False,False,-0.04151111632896487
+CONS_06063,broadband,Scotland,10,30.19,30.93,False,False,False,-0.14572338337763135
+CONS_01830,mobile,London,4,18.73,18.62,False,False,False,-0.11639077975015866
+CONS_08037,mobile,Scotland,59,23.7,27.72,False,False,False,-0.08664537990065979
+CONS_03620,subscription,Midlands,2,13.31,17.13,False,False,False,-0.005646397884524368
+CONS_04970,mobile,North East,6,21.55,25.22,False,False,False,-0.11664705669623354
+CONS_05490,mobile,South West,90,18.52,17.45,False,False,False,-0.0023375007792717506
+CONS_05336,subscription,London,11,12.31,13.56,False,False,False,-0.09188271657434977
+CONS_03932,mobile,Scotland,15,20.75,21.39,False,False,False,-0.15467079470599832
+CONS_04690,mobile,South West,3,23.43,23.29,False,False,False,-0.11076860536551414
+CONS_08857,subscription,Scotland,14,9.1,9.21,False,False,False,-0.06021140551319426
+CONS_08207,broadband,South West,120,30.29,34.82,False,False,True,0.027242430714228494
+CONS_09018,broadband,South East,12,30.47,33.34,False,False,False,-0.13383547537950147
+CONS_08077,broadband,North West,120,25.05,31.54,True,True,True,0.018469317924444284
+CONS_02370,mobile,South East,15,20.33,20.49,False,False,False,-0.14891581848728208
+CONS_01592,broadband,South East,4,24.41,25.6,False,False,False,-0.13794897482089397
+CONS_04269,subscription,Wales,16,11.97,12.76,False,False,False,-0.05869155193456288
+CONS_02268,mobile,London,11,14.77,17.52,False,False,False,-0.080988737130672
+CONS_02713,broadband,Wales,7,26.65,30.12,False,False,False,-0.0868130318613079
+CONS_05528,broadband,Midlands,2,23.8,22.01,False,False,False,-0.07105691375760564
+CONS_05893,mobile,South East,17,17.8,17.09,False,False,False,-0.12555855120247433
+CONS_08915,mobile,Midlands,5,13.84,15.84,False,False,False,-0.08557702318849342
+CONS_07726,broadband,Midlands,6,19.23,20.94,False,False,False,-0.09982335358934291
+CONS_00081,mobile,North West,120,21.55,22.88,False,False,False,-0.020077156933074325
+CONS_08084,mobile,Midlands,34,24.55,24.98,False,False,False,-0.11774583619467516
+CONS_00600,mobile,South West,4,23.49,22.02,False,False,False,-0.09150454768030042
+CONS_00655,subscription,South East,17,13.64,12.51,False,False,False,-0.07453775020051934
+CONS_02587,broadband,London,49,30.94,30.26,False,False,False,-0.061015115075813586
+CONS_05558,broadband,South East,15,29.81,33.79,False,False,False,-0.13267554178467772
+CONS_07705,mobile,Midlands,3,20.26,23.49,False,False,False,-0.11266587819175727
+CONS_00757,broadband,South West,32,25.68,35.67,True,True,False,-0.01609758659224214
+CONS_00204,broadband,North West,7,34.49,38.46,False,False,False,-0.10539464762679851
+CONS_04324,broadband,South East,7,33.49,30.2,False,False,False,-0.07386609094192931
+CONS_05028,broadband,North West,43,30.86,41.22,True,True,False,-0.008889333235953756
+CONS_08932,broadband,Scotland,120,39.64,41.05,False,False,True,0.06611808984636036
+CONS_01921,mobile,Midlands,17,12.26,10.47,False,False,False,-0.027799817815028827
+CONS_00631,subscription,London,4,10.73,10.71,False,False,False,-0.06761867173571384
+CONS_00615,broadband,Scotland,17,24.6,25.05,False,False,False,-0.1447827045908533
+CONS_03722,mobile,South East,66,13.48,14.64,False,False,False,-0.040695866596421326
+CONS_04979,subscription,South West,38,12.02,14.3,False,False,False,-0.04569217866796926
+CONS_06375,broadband,Wales,1,17.14,15.9,False,False,True,0.005489858490021593
+CONS_03623,mobile,Midlands,8,18.45,21.09,False,False,False,-0.12343963456529933
+CONS_08432,broadband,Scotland,79,32.14,39.91,True,True,False,-0.004156047989902545
+CONS_00008,subscription,North East,9,10.94,11.34,False,False,False,-0.10086993276862166
+CONS_06546,subscription,North West,7,14.11,16.0,False,False,False,-0.09529995268128771
+CONS_06161,mobile,London,4,17.85,18.32,False,False,False,-0.1178740643083136
+CONS_08339,mobile,Midlands,14,20.02,19.7,False,False,False,-0.1370488481302216
+CONS_02620,subscription,North East,25,15.78,19.23,True,True,False,-0.04856190360648416
+CONS_09295,broadband,London,12,26.32,26.55,False,False,False,-0.1282592623005594
+CONS_07301,mobile,South East,19,22.23,21.24,False,False,False,-0.1332156508055623
+CONS_04964,broadband,North East,1,36.78,35.02,False,False,False,-0.0603598462770254
+CONS_04481,mobile,Midlands,1,26.11,25.08,False,False,False,-0.10822690711836247
+CONS_06541,subscription,North East,9,13.32,12.48,False,False,False,-0.07550728948746449
+CONS_07093,subscription,Midlands,120,13.12,17.21,False,False,True,0.07181380579057994
+CONS_08869,mobile,London,8,18.81,21.51,False,False,False,-0.11213766656627477
+CONS_03952,subscription,Midlands,6,11.55,10.81,False,False,False,-0.061660715969615754
+CONS_05569,broadband,South East,1,32.52,29.53,False,False,False,-0.0631225637898769
+CONS_01087,subscription,Midlands,52,16.67,21.54,True,True,True,0.0025993895715966664
+CONS_02172,broadband,South West,23,36.29,38.12,False,False,False,-0.07685150617490832
+CONS_01374,subscription,North East,20,10.52,12.28,False,False,False,-0.07554126934435101
+CONS_00336,mobile,North East,8,14.32,15.86,False,False,False,-0.09917122863170125
+CONS_03640,mobile,London,17,16.13,16.25,False,False,False,-0.1053885822632975
+CONS_08572,subscription,Wales,10,13.35,15.93,False,False,False,-0.03679796236699262
+CONS_06829,mobile,Midlands,8,26.71,30.27,False,False,False,-0.1159897463775913
+CONS_02076,mobile,North East,14,19.99,23.55,False,False,False,-0.11941229910639739
+CONS_08044,mobile,South East,11,22.86,24.66,False,False,False,-0.1501485645051489
+CONS_08510,subscription,North East,12,12.72,13.79,False,False,False,-0.11113713409262888
+CONS_01799,mobile,London,6,22.31,24.86,False,False,False,-0.12482107412279925
+CONS_07060,mobile,North West,69,14.26,18.6,True,True,True,0.0032290711090621205
+CONS_07648,broadband,South East,83,31.92,48.19,True,True,True,0.08423555574853658
+CONS_02682,subscription,South East,22,18.2,20.27,False,False,False,-0.08834102843144276
+CONS_01831,mobile,London,6,24.21,23.15,False,False,False,-0.11107730778267488
+CONS_06719,mobile,Wales,23,18.44,21.33,False,False,False,-0.07072110109220225
+CONS_05467,subscription,South West,4,10.71,10.48,False,False,False,-0.054352852290915354
+CONS_07253,subscription,North East,8,9.2,9.12,False,False,False,-0.04874942334106924
+CONS_05803,subscription,North West,24,13.17,14.34,False,False,False,-0.10959262016628746
+CONS_08537,broadband,South East,22,18.72,22.47,False,False,False,-0.08152353558234476
+CONS_02396,subscription,South East,21,9.6,9.62,False,False,False,-0.06810051419583107
+CONS_02210,broadband,London,9,22.39,23.73,False,False,False,-0.11759782776441796
+CONS_08937,broadband,London,4,24.36,28.89,False,False,False,-0.09528288041847366
+CONS_09035,mobile,North East,10,24.12,25.81,False,False,False,-0.13910743076120574
+CONS_07447,mobile,South East,20,17.88,17.87,False,False,False,-0.1272529695581202
+CONS_04833,mobile,South West,17,25.48,27.38,False,False,False,-0.12568619088670774
+CONS_05525,broadband,Wales,19,17.13,19.49,False,False,False,-0.042735028017498844
+CONS_00275,mobile,London,46,26.19,25.5,False,False,False,-0.07752385740434115
+CONS_06702,mobile,London,7,16.07,16.48,False,False,False,-0.10511011111242263
+CONS_06474,mobile,North East,15,24.21,28.53,False,False,False,-0.12247056056543915
+CONS_02123,broadband,London,9,32.99,34.69,False,False,False,-0.1064274744706098
+CONS_01161,broadband,London,11,32.42,34.63,False,False,False,-0.10914093917538731
+CONS_02402,subscription,Midlands,58,13.16,12.85,False,False,False,-0.047326601274124025
+CONS_00955,subscription,South West,23,10.24,9.58,False,False,False,-0.027707312511280446
+CONS_07480,subscription,Scotland,22,10.17,11.32,False,False,False,-0.08754170664937383
+CONS_03154,broadband,Wales,9,24.18,29.64,False,False,False,-0.04880452587775541
+CONS_09166,broadband,North West,19,25.7,26.58,False,False,False,-0.1468143116644009
+CONS_01122,broadband,Scotland,23,35.12,34.99,False,False,False,-0.10927316789538805
+CONS_02715,subscription,London,36,11.41,11.77,False,False,False,-0.057974758529206194
+CONS_05091,mobile,South East,4,23.46,22.19,False,False,False,-0.11728135967903969
+CONS_03362,broadband,London,103,26.86,31.7,True,True,False,-0.007692833099008811
+CONS_03523,broadband,Scotland,6,22.68,21.84,False,False,False,-0.1063853555699878
+CONS_02265,mobile,Midlands,59,23.33,23.63,False,False,False,-0.08619026091127185
+CONS_00889,broadband,South East,21,32.64,31.43,False,False,False,-0.10471170530066537
+CONS_09925,broadband,London,27,27.3,26.08,False,False,False,-0.09254278854536796
+CONS_00799,mobile,North East,3,22.63,22.94,False,False,False,-0.1312561499602759
+CONS_07826,broadband,South West,23,30.48,37.89,False,False,False,-0.05154495136761894
+CONS_00636,broadband,London,28,23.75,29.64,False,False,False,-0.06019785491467955
+CONS_08672,broadband,Wales,21,27.5,29.34,False,False,False,-0.09386872572277438
+CONS_06461,broadband,South East,10,29.21,30.39,False,False,False,-0.14364955349872022
+CONS_06624,mobile,Wales,76,19.93,20.09,False,False,False,-0.02802409054453381
+CONS_02229,broadband,South West,17,32.96,32.89,False,False,False,-0.10604397357161494
+CONS_09947,subscription,Midlands,1,8.14,8.31,False,False,False,-0.02268045973348376
+CONS_09390,broadband,South East,18,22.74,25.8,False,False,False,-0.131053360226067
+CONS_02647,mobile,London,20,19.28,19.37,False,False,False,-0.12525446806399132
+CONS_03081,broadband,North West,75,35.1,50.57,True,True,True,0.08587804372359442
+CONS_09732,broadband,South East,10,30.36,31.95,False,False,False,-0.14316295481058977
+CONS_00231,broadband,Scotland,4,29.85,31.34,False,False,False,-0.14196121941449302
+CONS_05758,mobile,London,30,37.29,38.51,False,False,False,-0.0019758758505077356
+CONS_07272,subscription,North West,3,16.54,17.3,False,False,False,-0.09488506644734102
+CONS_06388,broadband,South East,113,27.18,32.79,True,True,True,0.006262799172156885
+CONS_01162,mobile,Midlands,14,23.67,23.49,False,False,False,-0.1380465914161969
+CONS_04767,mobile,London,9,23.7,21.49,False,False,False,-0.09560286148960034
+CONS_03680,broadband,London,23,27.29,26.63,False,False,False,-0.10894672661529226
+CONS_04009,broadband,North East,13,27.19,32.61,False,False,False,-0.11412032359432112
+CONS_03568,mobile,London,13,19.46,18.2,False,False,False,-0.09781163131852422
+CONS_06223,mobile,North West,5,22.72,22.54,False,False,False,-0.1386113005424235
+CONS_04244,mobile,South East,23,15.27,14.46,False,False,False,-0.08489263500572719
+CONS_06965,broadband,Scotland,31,27.38,25.33,False,False,False,-0.08038160805539768
+CONS_03732,subscription,North West,1,10.42,10.13,False,False,False,-0.05734485655076982
+CONS_06662,subscription,North East,4,13.07,13.85,False,False,False,-0.09703279660862418
+CONS_09041,broadband,Scotland,37,32.74,36.59,False,False,False,-0.0895133483825607
+CONS_07095,mobile,South West,12,26.37,26.51,False,False,False,-0.11945956119614742
+CONS_07511,mobile,Midlands,68,21.23,25.34,True,True,False,-0.0672693400774036
+CONS_09582,broadband,North West,2,28.41,27.73,False,False,False,-0.11983107835468987
+CONS_02258,subscription,London,7,9.26,9.81,False,False,False,-0.052438487249101495
+CONS_03741,broadband,Scotland,1,28.39,27.33,False,False,False,-0.11547028987910013
+CONS_04676,broadband,London,20,33.43,34.41,False,False,False,-0.10315891481604128
+CONS_06043,subscription,London,1,18.37,19.61,False,False,False,-0.05923422289534408
+CONS_04543,subscription,Scotland,5,14.56,14.53,False,False,False,-0.10321145437166718
+CONS_03901,broadband,South East,16,38.47,40.69,False,False,False,-0.06896793689449443
+CONS_00994,broadband,London,2,30.0,31.44,False,False,False,-0.10245675841127783
+CONS_06808,subscription,London,1,12.93,14.33,False,False,False,-0.063451237937456
+CONS_09340,broadband,Midlands,19,17.47,18.2,False,False,False,-0.08882427576231461
+CONS_04096,broadband,North West,1,28.96,28.46,False,False,False,-0.12129254769483877
+CONS_00033,broadband,Midlands,9,24.43,27.28,False,False,False,-0.13062403254207589
+CONS_07596,subscription,South East,14,11.65,12.11,False,False,False,-0.10951842329065098
+CONS_08380,mobile,South West,22,22.63,24.2,False,False,False,-0.12647877686759734
+CONS_07399,subscription,Midlands,11,13.66,15.13,False,False,False,-0.10192680006665283
+CONS_01922,broadband,Midlands,7,20.74,20.03,False,False,False,-0.09359349374784548
+CONS_01135,subscription,Midlands,1,11.8,12.43,False,False,False,-0.08026844687378748
+CONS_06047,broadband,North West,11,41.58,43.39,False,False,False,-0.045194982646104775
+CONS_09485,mobile,South East,4,20.37,18.86,False,False,False,-0.10119044543488931
+CONS_02610,broadband,South West,15,32.07,38.59,False,False,False,-0.0693243067072507
+CONS_00961,mobile,South East,44,20.07,25.99,True,True,False,-0.0623368132746126
+CONS_07244,subscription,Wales,16,14.85,15.28,False,False,False,-0.06420343599187806
+CONS_07869,mobile,Midlands,1,19.37,19.06,False,False,False,-0.11209394676212692
+CONS_04920,mobile,North West,11,18.3,18.82,False,False,False,-0.14307293511153119
+CONS_04496,broadband,Wales,4,19.06,20.09,False,False,False,-0.05364399292598321
+CONS_02650,subscription,North West,2,11.65,11.52,False,False,False,-0.08187660683627451
+CONS_01771,mobile,South East,25,32.26,35.98,False,False,False,-0.07086411556100014
+CONS_00169,broadband,South West,35,26.61,31.87,False,False,False,-0.08028130782502835
+CONS_07363,subscription,South East,37,15.08,15.4,False,False,False,-0.08703375737367985
+CONS_02638,broadband,Midlands,22,26.23,30.65,False,False,False,-0.11692580743033337
+CONS_08131,mobile,Scotland,5,27.16,29.6,False,False,False,-0.13728560869156292
+CONS_08128,mobile,South East,22,18.18,14.47,False,False,False,-0.043324428612217636
+CONS_08733,broadband,South West,6,33.64,36.03,False,False,False,-0.10161129928486562
+CONS_05888,broadband,London,16,31.99,33.1,False,False,False,-0.11290973410347488
+CONS_04095,broadband,London,3,24.38,25.34,False,False,False,-0.11818148103240456
+CONS_09817,broadband,South East,14,24.48,27.4,False,False,False,-0.14297726163793384
+CONS_02253,broadband,Midlands,119,30.89,32.72,False,False,False,-0.0015011770362475252
+CONS_02204,broadband,South West,20,32.0,34.54,False,False,False,-0.11204697636397914
+CONS_01145,mobile,London,12,21.47,19.32,False,False,False,-0.09647843190352795
+CONS_06370,mobile,South East,15,25.12,23.2,False,False,False,-0.1158959413862633
+CONS_01727,broadband,North West,47,27.27,25.24,False,False,False,-0.06702420392170344
+CONS_03233,mobile,Midlands,2,21.94,23.84,False,False,False,-0.1293900106730792
+CONS_06259,mobile,Midlands,4,28.39,26.48,False,False,False,-0.08575438225388865
+CONS_08853,broadband,Wales,7,35.77,41.15,False,False,False,-0.015363739528155285
+CONS_07540,broadband,Midlands,15,26.05,29.7,False,False,False,-0.1336251578961833
+CONS_09371,subscription,Scotland,1,11.06,9.71,False,False,False,-0.0011604836055829626
+CONS_08868,mobile,Midlands,17,16.21,15.83,False,False,False,-0.11032905841332985
+CONS_04256,broadband,North East,8,43.21,51.81,False,False,True,0.04220702924120612
+CONS_08499,mobile,South West,12,22.13,25.7,False,False,False,-0.10985737055976075
+CONS_09293,mobile,Scotland,21,23.21,23.07,False,False,False,-0.13778208310821877
+CONS_01597,broadband,North West,1,20.97,20.46,False,False,False,-0.08512394373422671
+CONS_09790,subscription,North West,18,9.45,8.35,False,False,False,-0.012026229555120671
+CONS_04664,broadband,North West,6,20.47,21.9,False,False,False,-0.11630318798150241
+CONS_03904,mobile,North West,2,20.65,22.84,False,False,False,-0.13080639534597638
+CONS_02957,broadband,South East,16,24.97,27.06,False,False,False,-0.1496404666674923
+CONS_03750,broadband,Scotland,6,26.26,25.39,False,False,False,-0.12524765275336186
+CONS_03818,broadband,South West,19,32.36,35.05,False,False,False,-0.11107585759043664
+CONS_05656,broadband,Scotland,5,34.33,39.27,False,False,False,-0.08836898635398399
+CONS_00145,mobile,North West,8,22.23,23.17,False,False,False,-0.147895208788972
+CONS_01460,broadband,London,5,25.67,32.03,False,False,False,-0.06695045342578809
+CONS_02219,subscription,North East,4,18.41,19.0,False,False,False,-0.07975436168265687
+CONS_06892,broadband,South East,19,33.75,37.22,False,False,False,-0.11394978567997927
+CONS_05480,subscription,South East,19,14.71,15.36,False,False,False,-0.11037425399994488
+CONS_09675,mobile,Midlands,25,25.69,37.96,True,True,True,0.017355102096268005
+CONS_05131,broadband,Midlands,10,29.35,30.22,False,False,False,-0.13685535225043516
+CONS_08304,mobile,North West,13,28.63,30.59,False,False,False,-0.12259939976568063
+CONS_06373,subscription,South West,3,14.24,15.82,False,False,False,-0.06901687650458266
+CONS_06215,broadband,Midlands,112,26.26,31.74,False,False,True,0.003823876334574705
+CONS_08750,mobile,South East,19,27.38,25.22,False,False,False,-0.10338514140150584
+CONS_07772,broadband,North West,7,25.76,30.87,False,False,False,-0.114262730624755
+CONS_07610,subscription,North West,17,12.78,12.87,False,False,False,-0.11211575519532907
+CONS_04545,broadband,London,1,26.17,28.62,False,False,False,-0.11311567141990203
+CONS_00059,broadband,Midlands,3,26.98,29.17,False,False,False,-0.13681334737382
+CONS_02781,broadband,London,4,36.18,36.33,False,False,False,-0.06495235292366008
+CONS_04374,broadband,London,9,37.95,40.96,False,False,False,-0.05445088427850231
+CONS_03865,subscription,London,47,11.04,12.83,False,False,False,-0.02683281825157513
+CONS_01098,subscription,Midlands,19,11.59,12.03,False,False,False,-0.1035249253281218
+CONS_03735,broadband,South West,3,27.7,27.14,False,False,False,-0.10451497203377341
+CONS_07732,mobile,London,29,19.14,21.0,False,False,False,-0.11180671832058009
+CONS_01223,subscription,London,7,14.34,16.69,False,False,False,-0.06081459934323097
+CONS_03389,mobile,North West,2,19.73,24.75,False,False,False,-0.07344947254967737
+CONS_01411,subscription,London,38,14.97,15.03,False,False,False,-0.06314309677983965
+CONS_05262,mobile,North East,7,23.97,25.18,False,False,False,-0.13934108084053853
+CONS_09838,mobile,North West,1,21.17,22.46,False,False,False,-0.13134647100670493
+CONS_08601,mobile,South West,9,16.42,17.7,False,False,False,-0.10164420315582318
+CONS_05399,mobile,North East,10,23.35,25.12,False,False,False,-0.13750945582640794
+CONS_08320,mobile,London,7,22.59,23.65,False,False,False,-0.13126442219531148
+CONS_08881,mobile,South East,9,27.06,27.23,False,False,False,-0.14022402000638334
+CONS_07565,broadband,Wales,24,22.31,21.55,False,False,False,-0.06020457332927531
+CONS_06286,mobile,Midlands,7,19.29,20.11,False,False,False,-0.1408108443367166
+CONS_03216,mobile,London,6,19.61,18.91,False,False,False,-0.11840389878308777
+CONS_04193,mobile,Midlands,16,19.97,20.9,False,False,False,-0.14671790973416143
+CONS_04265,mobile,Midlands,38,11.69,13.57,False,False,False,-0.04978214178816154
+CONS_07628,subscription,South West,7,11.84,11.97,False,False,False,-0.07595001935193646
+CONS_03520,subscription,Scotland,14,18.28,19.54,False,False,False,-0.09749106863781648
+CONS_01239,broadband,Midlands,15,24.2,23.07,False,False,False,-0.10826812432866612
+CONS_00841,broadband,Midlands,3,33.84,32.61,False,False,False,-0.09404684950954612
+CONS_00724,subscription,London,19,17.0,19.68,False,False,False,-0.052775141272789705
+CONS_03846,mobile,London,9,22.81,25.18,False,False,False,-0.1288195244748469
+CONS_03514,subscription,North West,10,12.87,11.66,False,False,False,-0.061865721531016216
+CONS_09673,subscription,South West,9,11.26,11.98,False,False,False,-0.08269523138606316
+CONS_09840,subscription,South East,13,12.6,13.34,False,False,False,-0.11278883414240576
+CONS_01472,broadband,South East,5,32.69,35.86,False,False,False,-0.12230242791597301
+CONS_00990,subscription,South West,5,10.28,12.09,False,False,False,-0.04450674545899991
+CONS_00596,broadband,North West,120,21.73,23.51,False,False,False,-0.004502315579058558
+CONS_06397,subscription,North West,43,17.94,17.85,False,False,False,-0.06409954870837231
+CONS_03962,broadband,South East,6,36.88,42.99,False,False,False,-0.04483426353824438
+CONS_01861,mobile,North East,15,19.13,21.7,False,False,False,-0.12744283309056675
+CONS_05635,broadband,Midlands,20,29.49,31.49,False,False,False,-0.13612775575882585
+CONS_01328,mobile,London,3,24.0,26.82,False,False,False,-0.11387078351909408
+CONS_04881,broadband,London,2,27.92,29.41,False,False,False,-0.10912331279256232
+CONS_03822,mobile,South West,12,16.47,19.44,False,False,False,-0.09347081353752024
+CONS_04598,broadband,South East,6,27.65,31.92,False,False,False,-0.12937237911505067
+CONS_01920,subscription,North West,37,15.05,14.08,False,False,False,-0.053484860356127206
+CONS_02161,mobile,London,16,17.62,16.93,False,False,False,-0.10645375273499635
+CONS_05048,subscription,South East,3,10.48,11.57,False,False,False,-0.08005467742205069
+CONS_06717,mobile,Scotland,1,25.17,29.68,False,False,False,-0.10560456320995049
+CONS_05552,broadband,South East,22,31.95,30.1,False,False,False,-0.09914410314815175
+CONS_03045,mobile,North East,21,29.25,31.63,False,False,False,-0.11075089948210448
+CONS_06553,subscription,Midlands,6,14.14,14.46,False,False,False,-0.10876233254180917
+CONS_01864,mobile,Midlands,7,25.43,26.06,False,False,False,-0.1399780717182122
+CONS_08386,broadband,South East,19,22.31,21.94,False,False,False,-0.11636989481360166
+CONS_02055,broadband,South West,29,26.45,25.9,False,False,False,-0.10327385435883035
+CONS_07563,broadband,South West,6,25.58,26.87,False,False,False,-0.125025100870434
+CONS_07485,broadband,South West,9,28.44,29.88,False,False,False,-0.1286806997219499
+CONS_02536,mobile,North East,12,27.64,29.26,False,False,False,-0.1282194403918297
+CONS_02389,mobile,Midlands,20,18.79,19.55,False,False,False,-0.13589427237300283
+CONS_06125,broadband,Wales,17,25.52,26.02,False,False,False,-0.09254735075468351
+CONS_00896,subscription,North East,52,15.47,20.69,True,True,True,0.008993426332123189
+CONS_00773,mobile,North West,88,29.22,24.32,False,False,True,0.01667066202975076
+CONS_01835,broadband,South East,14,21.95,23.96,False,False,False,-0.1326003422334615
+CONS_01421,mobile,Midlands,1,24.06,25.1,False,False,False,-0.12362277766840113
+CONS_00622,mobile,North West,28,13.68,15.96,True,True,False,-0.0777400588960841
+CONS_02820,subscription,Scotland,16,7.56,7.31,False,False,False,-0.023235096420259227
+CONS_00291,subscription,South East,25,10.73,11.38,False,False,False,-0.09105841754263089
+CONS_04133,mobile,South West,13,24.25,23.84,False,False,False,-0.11992815461744305
+CONS_05582,broadband,South East,11,23.72,26.27,False,False,False,-0.1387408120766731
+CONS_09383,mobile,North West,62,21.56,26.45,True,True,False,-0.06776355107845544
+CONS_06845,mobile,Midlands,10,26.47,27.53,False,False,False,-0.13895405024707735
+CONS_03698,broadband,South East,95,35.15,48.38,True,True,True,0.07799867994803567
+CONS_05861,mobile,South East,17,25.63,25.35,False,False,False,-0.14226305042279647
+CONS_07475,broadband,North West,7,27.83,28.26,False,False,False,-0.1463659551236262
+CONS_04667,subscription,London,14,12.03,11.68,False,False,False,-0.080851436022151
+CONS_06631,mobile,London,20,25.96,27.41,False,False,False,-0.12401073828808235
+CONS_05830,subscription,London,35,12.88,12.38,False,False,False,-0.04976919327388829
+CONS_04031,mobile,North West,39,30.34,34.44,False,False,False,-0.06545066715482128
+CONS_03737,broadband,North West,70,32.93,35.36,False,False,False,-0.05258025581877779
+CONS_06384,subscription,London,17,13.88,13.24,False,False,False,-0.08072888740944983
+CONS_05522,broadband,Wales,12,23.72,25.46,False,False,False,-0.0899650456775481
+CONS_01017,mobile,North West,7,28.72,30.95,False,False,False,-0.11717723487654363
+CONS_00968,broadband,North East,18,38.31,38.71,False,False,False,-0.06870781722962727
+CONS_06133,mobile,South East,73,14.43,18.6,True,True,False,-0.009940978623129704
+CONS_09054,subscription,Midlands,35,13.3,16.07,True,True,False,-0.049610062639371066
+CONS_07000,mobile,Scotland,31,17.97,24.41,True,True,False,-0.04104733809117134
+CONS_07044,broadband,London,8,21.41,24.7,False,False,False,-0.10033063482278093
+CONS_09052,mobile,London,22,17.3,17.29,False,False,False,-0.11342668337011935
+CONS_00427,broadband,London,1,30.54,34.4,False,False,False,-0.08376358254206767
+CONS_04846,broadband,London,4,25.89,28.44,False,False,False,-0.1219054601432707
+CONS_07350,broadband,London,42,23.99,25.92,False,False,False,-0.09416271632576512
+CONS_00747,broadband,North West,6,33.29,35.12,False,False,False,-0.12998809814651974
+CONS_00638,mobile,South West,13,20.24,20.12,False,False,False,-0.1286690194386455
+CONS_02088,broadband,London,14,29.66,30.44,False,False,False,-0.12253719024306248
+CONS_02006,subscription,South East,24,18.62,16.78,False,False,False,-0.045332736452543765
+CONS_08629,mobile,London,18,18.58,19.48,False,False,False,-0.12908671827387008
+CONS_08358,broadband,South East,1,32.35,36.16,False,False,False,-0.10695346543818768
+CONS_04569,mobile,South East,12,20.91,21.21,False,False,False,-0.1518082036697811
+CONS_06335,mobile,Midlands,118,18.41,22.02,True,True,True,0.005667889942356008
+CONS_04941,subscription,Scotland,49,10.95,13.87,True,True,False,-0.018865593602642283
+CONS_03038,broadband,Wales,120,29.59,31.03,False,False,True,0.03232915791825264
+CONS_07683,mobile,North West,44,24.96,28.49,False,False,False,-0.1069442952441576
+CONS_02442,broadband,Wales,5,26.54,25.85,False,False,False,-0.07009288573380873
+CONS_07026,mobile,London,21,26.92,27.67,False,False,False,-0.11791217058938663
+CONS_05746,broadband,London,10,35.84,40.37,False,False,False,-0.05633327127367471
+CONS_09262,broadband,Scotland,20,36.23,41.7,False,False,False,-0.06292681828339564
+CONS_04337,broadband,North West,12,29.57,34.14,False,False,False,-0.12384359864098443
+CONS_05215,mobile,South East,7,19.22,21.61,False,False,False,-0.14043106480147483
+CONS_04618,mobile,Midlands,53,23.57,30.84,True,True,False,-0.03590029886687307
+CONS_03391,broadband,Midlands,17,19.45,18.95,False,False,False,-0.08548733139335712
+CONS_09517,subscription,London,4,9.93,10.78,False,False,False,-0.06400946879528824
+CONS_05938,broadband,Scotland,29,28.86,38.38,True,True,False,-0.0388891407832016
+CONS_06210,subscription,London,11,11.36,12.82,False,False,False,-0.07207307261762658
+CONS_03434,broadband,Midlands,14,30.26,33.97,False,False,False,-0.12463763196114053
+CONS_09980,broadband,South East,12,30.17,33.83,False,False,False,-0.13539900752766787
+CONS_05253,broadband,South West,14,45.81,53.87,False,False,True,0.054325315468745305
+CONS_04525,mobile,North East,34,22.71,23.29,False,False,False,-0.11570021342310971
+CONS_06834,subscription,Midlands,8,11.59,11.23,False,False,False,-0.08541768334623318
+CONS_07470,mobile,South East,16,23.07,24.21,False,False,False,-0.1540766730070059
+CONS_01309,broadband,London,11,18.94,18.99,False,False,False,-0.0809066329144631
+CONS_02905,broadband,London,18,28.83,29.92,False,False,False,-0.12445264775763615
+CONS_05807,mobile,Midlands,37,20.71,22.45,False,False,False,-0.12216596211867659
+CONS_05064,broadband,London,3,22.41,23.48,False,False,False,-0.11080229784368972
+CONS_05241,broadband,Scotland,2,24.63,29.49,False,False,False,-0.09941545781769234
+CONS_07674,mobile,South East,117,20.57,24.35,True,True,False,-0.01106178026858795
+CONS_05160,broadband,London,16,42.74,47.79,False,False,True,0.005891510329820271
+CONS_06718,subscription,South East,6,7.92,6.72,False,False,True,0.03690494218985396
+CONS_02644,subscription,South East,7,10.14,11.83,False,False,False,-0.06848312451666655
+CONS_04366,broadband,Midlands,6,27.64,26.49,False,False,False,-0.12143112326596806
+CONS_08202,subscription,South East,11,15.0,15.57,False,False,False,-0.10944877067564601
+CONS_06489,broadband,North West,8,34.84,36.05,False,False,False,-0.113441951469761
+CONS_07243,mobile,London,23,14.61,16.2,False,False,False,-0.08374122868496114
+CONS_06571,mobile,Wales,9,22.26,22.71,False,False,False,-0.09179117402180076
+CONS_00973,broadband,South West,12,25.6,28.92,False,False,False,-0.11956342116709923
+CONS_03407,mobile,London,56,37.67,55.39,True,True,True,0.11596501647554114
+CONS_04562,broadband,South West,17,33.96,34.28,False,False,False,-0.10025189750704816
+CONS_07970,broadband,London,1,29.21,31.48,False,False,False,-0.1001995723411665
+CONS_04535,mobile,South West,30,25.44,28.0,False,False,False,-0.10505367960461998
+CONS_08710,broadband,Midlands,24,25.74,25.31,False,False,False,-0.12358156758033018
+CONS_06531,broadband,Scotland,59,29.4,37.5,True,True,False,-0.028513784011922838
+CONS_05267,broadband,South East,120,41.18,42.48,False,False,True,0.07035477810483182
+CONS_02985,broadband,North West,22,16.78,21.46,False,False,False,-0.0273464938834711
+CONS_07170,broadband,London,20,31.36,29.29,False,False,False,-0.07961595743688776
+CONS_03582,subscription,South East,19,16.98,19.27,False,False,False,-0.08462042090900623
+CONS_04597,mobile,London,44,24.61,24.82,False,False,False,-0.0939568111694275
+CONS_08948,mobile,South East,11,23.79,24.39,False,False,False,-0.1502329672709924
+CONS_04352,broadband,Midlands,8,21.3,23.8,False,False,False,-0.11672428355324133
+CONS_03965,broadband,South West,63,29.16,31.86,False,False,False,-0.06330550145189395
+CONS_08226,broadband,Midlands,1,35.18,39.46,False,False,False,-0.06588550108087465
+CONS_04821,mobile,London,7,20.33,22.4,False,False,False,-0.1285903807654289
+CONS_02388,broadband,Scotland,20,34.1,34.91,False,False,False,-0.12007600858692735
+CONS_09553,mobile,Scotland,24,24.21,26.72,False,False,False,-0.14091207616830426
+CONS_06915,mobile,Midlands,29,13.16,16.18,True,True,False,-0.04233247624374514
+CONS_05903,broadband,South West,38,26.82,30.52,False,False,False,-0.09640937978810898
+CONS_03145,subscription,North West,40,9.14,12.71,True,True,True,0.024223151586545755
+CONS_05508,mobile,Midlands,36,27.11,28.25,False,False,False,-0.1118366239830969
+CONS_07067,mobile,South East,13,26.88,27.0,False,False,False,-0.14334967009792343
+CONS_05372,subscription,London,16,10.62,11.04,False,False,False,-0.08503650865577439
+CONS_05245,mobile,South West,21,16.24,16.26,False,False,False,-0.10761833850042096
+CONS_09726,subscription,Scotland,10,7.25,7.78,False,False,False,-0.03790524679579943
+CONS_00899,broadband,London,6,28.05,30.72,False,False,False,-0.11849608976170178
+CONS_07559,subscription,London,37,15.84,18.18,False,False,False,-0.0410679036268734
+CONS_08693,broadband,Wales,22,24.14,22.9,False,False,False,-0.06294431356616492
+CONS_09308,subscription,London,4,11.23,11.11,False,False,False,-0.06829880835507013
+CONS_04843,broadband,South East,12,30.6,33.95,False,False,False,-0.13272960166876713
+CONS_00070,mobile,London,12,24.34,23.82,False,False,False,-0.12132540778741435
+CONS_04654,broadband,Wales,5,20.65,20.19,False,False,False,-0.05664432641771455
+CONS_07960,subscription,Scotland,10,11.18,12.7,False,False,False,-0.09527844528970841
+CONS_08474,broadband,North West,18,26.82,30.99,False,False,False,-0.1381719073635586
+CONS_05916,mobile,London,5,18.41,17.75,False,False,False,-0.10927955825809638
+CONS_06683,mobile,South East,9,23.91,24.54,False,False,False,-0.1493888979330033
+CONS_09986,subscription,North West,12,14.12,13.2,False,False,False,-0.08591815942320408
+CONS_00013,mobile,London,11,13.86,13.11,False,False,False,-0.06955076643206964
+CONS_05451,broadband,South East,7,43.05,45.35,False,False,False,-0.02242920172019658
+CONS_00556,broadband,South West,7,38.09,37.87,False,False,False,-0.05517996078373644
+CONS_04622,subscription,Scotland,21,9.68,10.16,False,False,False,-0.08471640762012289
+CONS_00897,broadband,South East,15,20.82,20.98,False,False,False,-0.11629544245424012
+CONS_07802,subscription,Midlands,73,11.31,12.26,False,False,False,-0.031027858851476187
+CONS_07917,subscription,North West,14,17.39,16.76,False,False,False,-0.09425673740476803
+CONS_02103,subscription,North West,22,9.9,8.92,False,False,False,-0.02879028954253826
+CONS_08475,broadband,Wales,12,30.19,30.38,False,False,False,-0.08481004923135077
+CONS_08701,broadband,Scotland,10,32.86,32.74,False,False,False,-0.12776177717897497
+CONS_01594,mobile,Midlands,25,15.15,14.92,False,False,False,-0.09572668767201853
+CONS_01720,subscription,North East,15,11.68,11.4,False,False,False,-0.09466979227672023
+CONS_00282,broadband,South West,5,31.68,36.37,False,False,False,-0.08840620272675437
+CONS_04406,mobile,South West,4,17.61,17.58,False,False,False,-0.10097393301521462
+CONS_01313,mobile,Scotland,2,18.66,16.42,False,False,False,-0.06573679606191463
+CONS_00332,broadband,South West,12,21.47,24.62,False,False,False,-0.10165717770443039
+CONS_00084,broadband,North East,24,27.71,31.99,False,False,False,-0.12417827763745537
+CONS_02919,broadband,South East,23,23.78,23.83,False,False,False,-0.13191034955910064
+CONS_03468,broadband,Midlands,85,27.73,30.41,False,False,False,-0.055061626750172676
+CONS_08996,subscription,South West,105,11.12,13.11,False,False,True,0.03786670726898267
+CONS_07662,subscription,South East,14,13.13,13.76,False,False,False,-0.11549083224537338
+CONS_09705,broadband,North West,105,22.68,25.91,False,False,False,-0.021969801765069574
+CONS_00877,broadband,South East,17,21.93,21.03,False,False,False,-0.10690790506413889
+CONS_01379,mobile,Scotland,2,17.96,20.84,False,False,False,-0.11127589238925711
+CONS_02174,broadband,Scotland,20,31.83,30.91,False,False,False,-0.12044812565248053
+CONS_07942,broadband,London,14,41.01,41.29,False,False,False,-0.03538661498493889
+CONS_01547,broadband,Scotland,22,31.77,38.31,False,False,False,-0.08537878531819815
+CONS_00830,broadband,North West,34,23.57,23.96,False,False,False,-0.1149160534799133
+CONS_09266,mobile,South West,38,21.23,20.82,False,False,False,-0.09648907342131163
+CONS_04991,broadband,South West,39,37.71,45.12,True,True,True,0.01028390357996567
+CONS_03306,broadband,South East,31,28.76,36.94,True,True,False,-0.051714869338543634
+CONS_08042,mobile,South West,46,25.66,24.21,False,False,False,-0.0723751685424045
+CONS_08460,mobile,Scotland,6,24.75,27.75,False,False,False,-0.138279289402837
+CONS_00368,mobile,North West,9,20.93,22.79,False,False,False,-0.14638528826109504
+CONS_08676,mobile,London,61,25.87,26.0,False,False,False,-0.0663615781300953
+CONS_01016,broadband,Scotland,18,22.32,20.1,False,False,False,-0.07652848719520866
+CONS_06550,broadband,North West,28,24.65,26.2,False,False,False,-0.13439130216835432
+CONS_00244,mobile,South East,47,18.24,20.21,False,False,False,-0.10989189493353979
+CONS_04945,mobile,Midlands,20,32.8,33.07,False,False,False,-0.07599736296172249
+CONS_07586,broadband,North East,1,22.82,24.04,False,False,False,-0.11442281520602277
+CONS_08348,broadband,Midlands,12,21.91,20.95,False,False,False,-0.09745970288115097
+CONS_08901,broadband,Midlands,6,24.18,23.79,False,False,False,-0.11876245436993643
+CONS_08276,broadband,South East,17,32.22,28.93,False,False,False,-0.08578991961209131
+CONS_06105,mobile,Wales,1,21.5,24.02,False,False,False,-0.06773743610462107
+CONS_09113,mobile,Wales,27,25.87,24.25,False,False,False,-0.04587516661342961
+CONS_08670,subscription,Scotland,15,15.12,15.64,False,False,False,-0.11242409830713396
+CONS_09896,subscription,South West,2,17.67,20.06,False,False,False,-0.05256632388834093
+CONS_07941,broadband,Scotland,19,24.84,26.47,False,False,False,-0.14992373686146432
+CONS_00712,mobile,North West,19,21.55,23.21,False,False,False,-0.14914653902145103
+CONS_03315,broadband,London,36,24.42,31.8,True,True,False,-0.026434135693661487
+CONS_00558,mobile,London,42,30.76,29.93,False,False,False,-0.04810603959994819
+CONS_01001,broadband,Midlands,15,31.22,32.33,False,False,False,-0.1309906110753029
+CONS_07547,mobile,London,4,24.36,25.25,False,False,False,-0.1258494413792684
+CONS_06562,broadband,South East,13,39.81,42.6,False,False,False,-0.05248575303404668
+CONS_01769,broadband,London,34,20.11,29.08,True,True,True,0.017694315397377647
+CONS_02134,subscription,Midlands,11,10.24,11.15,False,False,False,-0.09447475869704458
+CONS_08891,subscription,London,46,15.9,15.87,False,False,False,-0.0522644105958987
+CONS_02305,mobile,Wales,6,22.75,25.39,False,False,False,-0.07122713374121631
+CONS_02293,mobile,South East,3,17.56,17.19,False,False,False,-0.11562487236515506
+CONS_00066,mobile,South West,64,26.64,31.82,False,False,False,-0.04650106010145172
+CONS_08227,mobile,London,120,19.6,26.42,True,True,True,0.05814540590398931
+CONS_02842,mobile,North West,89,17.03,21.12,False,False,False,-0.02512176081119266
+CONS_01066,subscription,South East,25,7.25,6.85,False,False,True,0.003408981397491462
+CONS_08838,mobile,North West,6,25.65,25.62,False,False,False,-0.1380891098366097
+CONS_08624,mobile,Scotland,23,18.21,17.34,False,False,False,-0.11665876188578106
+CONS_07793,broadband,South East,12,33.88,33.19,False,False,False,-0.11028377701662806
+CONS_08584,broadband,North East,4,36.63,40.49,False,False,False,-0.0670073907872678
+CONS_03260,broadband,South West,18,34.04,38.97,False,False,False,-0.0758746794906649
+CONS_04290,mobile,South East,21,20.67,20.64,False,False,False,-0.14464438298615762
+CONS_03063,broadband,Scotland,10,31.92,33.31,False,False,False,-0.1352565772441135
+CONS_03310,broadband,South East,62,37.98,39.73,False,False,False,-0.014503973234930467
+CONS_01743,broadband,North East,24,36.5,35.58,False,False,False,-0.0753105527879791
+CONS_07462,mobile,South East,22,17.34,19.48,False,False,False,-0.13039444711379056
+CONS_06666,mobile,London,20,20.01,23.75,False,False,False,-0.10832152351860214
+CONS_06901,broadband,London,15,29.48,30.7,False,False,False,-0.12550980181271743
+CONS_03048,mobile,Wales,17,26.76,27.53,False,False,False,-0.08033335404425418
+CONS_07189,broadband,London,12,29.86,29.16,False,False,False,-0.11179703300609967
+CONS_01659,broadband,London,27,18.3,18.1,False,False,False,-0.060407037851112566
+CONS_00546,mobile,South West,21,30.19,32.42,False,False,False,-0.08453585295294802
+CONS_00299,subscription,Scotland,28,10.68,10.81,False,False,False,-0.08247742366575
+CONS_07486,subscription,London,3,19.44,19.72,False,False,False,-0.06360828082235237
+CONS_09328,broadband,London,13,23.99,25.08,False,False,False,-0.1290549230368802
+CONS_03622,broadband,Scotland,14,14.17,12.89,False,False,False,-0.029132051588329544
+CONS_03157,broadband,North West,4,24.52,29.01,False,False,False,-0.11672446784484125
+CONS_06357,broadband,Midlands,19,28.66,30.58,False,False,False,-0.13903050403849243
+CONS_07934,broadband,North East,19,35.28,37.75,False,False,False,-0.09797909016181378
+CONS_04109,subscription,North West,52,13.27,13.24,False,False,False,-0.07145723999418252
+CONS_02020,broadband,South East,3,23.17,28.27,False,False,False,-0.08795855730464092
+CONS_02962,subscription,Wales,15,14.14,14.04,False,False,False,-0.061836825029082165
+CONS_03034,broadband,London,21,21.49,22.14,False,False,False,-0.10399235570736703
+CONS_00345,subscription,North West,50,11.9,12.99,False,False,False,-0.0723048359321114
+CONS_04791,mobile,Midlands,42,27.98,32.97,True,True,False,-0.06535365370769775
+CONS_02289,broadband,North East,12,32.07,36.02,False,False,False,-0.11921470687145169
+CONS_02189,broadband,London,7,29.11,31.02,False,False,False,-0.11817896933967209
+CONS_04232,broadband,South East,18,31.31,32.98,False,False,False,-0.13936936381064757
+CONS_03082,broadband,North West,11,34.48,31.76,False,False,False,-0.08861372227130743
+CONS_08373,broadband,North East,22,34.86,36.38,False,False,False,-0.10828557295724445
+CONS_01377,mobile,South West,1,21.13,27.98,False,False,False,-0.02570069056887858
+CONS_05164,mobile,South East,15,19.04,20.04,False,False,False,-0.14918042227114364
+CONS_08549,mobile,South East,65,20.22,27.62,True,True,False,-0.021791366979171056
+CONS_07906,broadband,London,11,19.33,18.33,False,False,False,-0.06207062989284773
+CONS_04614,mobile,South East,19,22.92,24.0,False,False,False,-0.1503452110833377
+CONS_08877,subscription,London,50,11.89,12.06,False,False,False,-0.04456476907879192
+CONS_08616,mobile,South East,75,24.2,23.2,False,False,False,-0.057553504578603976
+CONS_06875,broadband,Midlands,64,26.41,24.7,False,False,False,-0.02783048562629875
+CONS_05885,mobile,Midlands,17,22.68,20.68,False,False,False,-0.10429393547474441
+CONS_02019,mobile,Scotland,120,24.84,25.57,False,False,False,-0.01783874090567228
+CONS_00130,mobile,North West,2,26.85,32.13,False,False,False,-0.08369920275106035
+CONS_06277,broadband,London,22,31.34,28.34,False,False,False,-0.06691062183764063
+CONS_09417,mobile,North West,32,24.47,26.19,False,False,False,-0.12923193695420104
+CONS_08806,mobile,Scotland,40,31.77,41.51,True,True,True,0.02075631073227413
+CONS_07939,broadband,North West,22,24.53,24.53,False,False,False,-0.1344622493601702
+CONS_09532,mobile,Midlands,6,21.81,23.44,False,False,False,-0.1430944646119004
+CONS_03463,broadband,Scotland,16,26.79,27.94,False,False,False,-0.15176996708866014
+CONS_03221,broadband,Scotland,5,39.04,45.1,False,False,False,-0.029465531812265633
+CONS_09062,subscription,Midlands,22,13.83,14.2,False,False,False,-0.10946541576343743
+CONS_05220,broadband,North West,18,31.39,30.74,False,False,False,-0.12658855892581478
+CONS_08025,broadband,South West,14,28.07,26.66,False,False,False,-0.10818178951444907
+CONS_03898,mobile,South East,70,20.51,25.09,True,True,False,-0.05873751163717955
+CONS_03381,broadband,South East,28,23.78,23.09,False,False,False,-0.10733830022001811
+CONS_00431,subscription,London,8,12.13,14.36,False,False,False,-0.0637490955309381
+CONS_04605,mobile,South West,13,29.36,30.74,False,False,False,-0.1002896149346893
+CONS_05884,subscription,Midlands,22,7.58,8.38,False,False,False,-0.027741181092718614
+CONS_04628,broadband,Scotland,4,16.64,19.12,False,False,False,-0.06365480176661176
+CONS_03617,broadband,London,5,32.44,33.03,False,False,False,-0.10656957290199287
+CONS_03666,mobile,South East,3,27.08,30.33,False,False,False,-0.12337333067825623
+CONS_03960,broadband,London,24,29.42,31.34,False,False,False,-0.11478371063551579
+CONS_06847,broadband,South East,23,31.4,32.31,False,False,False,-0.13077631261247613
+CONS_09508,broadband,Scotland,12,21.0,21.5,False,False,False,-0.12013373124101767
+CONS_03629,mobile,South West,12,28.64,27.72,False,False,False,-0.09236044161661006
+CONS_02324,broadband,South East,8,35.24,34.26,False,False,False,-0.09276424616592449
+CONS_06774,subscription,London,18,9.33,10.16,False,False,False,-0.058683538746944985
+CONS_06618,subscription,South West,6,14.55,15.8,False,False,False,-0.08382318760490165
+CONS_06725,mobile,Midlands,16,20.63,21.51,False,False,False,-0.14765786155417665
+CONS_00617,mobile,South East,13,20.95,18.41,False,False,False,-0.08835281125139466
+CONS_01474,mobile,London,3,20.13,21.42,False,False,False,-0.12653585276963125
+CONS_03817,mobile,North West,3,30.92,28.99,False,False,False,-0.07693593850334207
+CONS_04554,mobile,Midlands,22,29.43,29.36,False,False,False,-0.10658113577909623
+CONS_06274,broadband,Wales,30,31.84,31.92,False,False,False,-0.06273328185116056
+CONS_09065,broadband,South East,17,33.92,34.32,False,False,False,-0.12163747392489338
+CONS_05217,broadband,North West,19,20.69,23.57,False,False,False,-0.11509001123986268
+CONS_07369,subscription,Scotland,71,10.05,10.17,False,False,False,-0.013851704322625169
+CONS_01360,broadband,London,18,20.16,19.52,False,False,False,-0.08190211389300234
+CONS_05792,mobile,South West,27,15.76,22.47,True,True,True,0.004477538671076808
+CONS_03873,broadband,South West,5,33.04,32.09,False,False,False,-0.08368644189174479
+CONS_08682,mobile,Wales,19,25.4,29.82,False,False,False,-0.06375272768070117
+CONS_08791,subscription,North West,3,13.75,12.47,False,False,False,-0.05758012686309222
+CONS_00824,mobile,North West,44,19.45,17.48,False,False,False,-0.0687044283992147
+CONS_04721,mobile,South West,48,19.62,23.92,True,True,False,-0.06997278673705304
+CONS_05629,broadband,Midlands,13,30.43,35.64,False,False,False,-0.10564886084074693
+CONS_00469,broadband,North West,5,37.0,35.74,False,False,False,-0.07448552106272466
+CONS_05194,mobile,South East,68,13.82,18.53,True,True,True,0.0074783954322124035
+CONS_04386,subscription,Wales,22,12.3,12.86,False,False,False,-0.05691874398209107
+CONS_09875,broadband,London,19,23.22,22.29,False,False,False,-0.09765554179523389
+CONS_06828,subscription,London,15,15.7,15.71,False,False,False,-0.08973661433582925
+CONS_00318,mobile,North West,56,25.79,23.47,False,False,False,-0.04940154646521855
+CONS_06050,mobile,Midlands,15,22.79,23.81,False,False,False,-0.14556648197292665
+CONS_09374,subscription,Midlands,6,8.22,8.57,False,False,False,-0.04739974027532823
+CONS_05264,subscription,South East,39,17.34,16.5,False,False,False,-0.05930234636959841
+CONS_04839,broadband,Scotland,28,27.25,39.13,True,True,False,-0.00516114113900501
+CONS_00118,mobile,Scotland,1,23.43,24.68,False,False,False,-0.13052131620660556
+CONS_00045,subscription,South East,24,7.08,7.87,False,False,False,-0.02250901789953963
+CONS_05968,broadband,South East,1,21.15,22.58,False,False,False,-0.10745505166824232
+CONS_09953,subscription,North West,8,13.81,14.54,False,False,False,-0.11759673246544339
+CONS_02375,broadband,London,11,36.63,40.73,False,False,False,-0.05600587274876434
+CONS_01736,mobile,South West,29,16.03,20.11,True,True,False,-0.055339047464390334
+CONS_00752,broadband,South East,78,32.86,46.13,True,True,True,0.06518144725711739
+CONS_04245,mobile,South East,16,24.9,25.55,False,False,False,-0.15224499780623574
+CONS_00224,subscription,Midlands,9,16.52,17.5,False,False,False,-0.09799114920436319
+CONS_09189,subscription,Wales,12,14.8,18.26,False,False,False,-0.018373733848487173
+CONS_06102,broadband,North West,8,28.04,27.74,False,False,False,-0.1409411533817725
+CONS_02690,mobile,Wales,1,21.24,21.04,False,False,False,-0.07135461414300198
+CONS_08349,broadband,London,24,29.48,34.31,False,False,False,-0.08909017888315035
+CONS_08910,broadband,Scotland,7,24.66,26.02,False,False,False,-0.14325322776651184
+CONS_02240,mobile,Midlands,18,23.31,25.09,False,False,False,-0.14416145768966732
+CONS_00563,subscription,Midlands,53,18.39,16.34,False,False,False,-0.014068482943716543
+CONS_02153,subscription,Midlands,21,13.52,15.51,False,False,False,-0.08853216034654288
+CONS_08578,broadband,London,30,22.17,20.35,False,False,False,-0.04762477286959266
+CONS_02983,broadband,Midlands,6,25.35,26.08,False,False,False,-0.13476764997245672
+CONS_03454,broadband,Scotland,23,31.94,34.17,False,False,False,-0.13208153110542376
+CONS_05797,mobile,London,4,21.84,22.03,False,False,False,-0.12788642491450164
+CONS_03588,mobile,Midlands,15,26.6,26.66,False,False,False,-0.1334899353599051
+CONS_07822,mobile,London,7,21.01,22.46,False,False,False,-0.13310979609035312
+CONS_06975,mobile,North East,24,19.63,19.16,False,False,False,-0.1224972527387782
+CONS_00890,mobile,London,4,21.43,26.78,False,False,False,-0.07540366985271613
+CONS_05524,mobile,London,21,39.08,41.76,False,False,True,0.006041499322303134
+CONS_05295,subscription,South West,18,16.59,18.74,False,False,False,-0.06871611762295249
+CONS_00061,mobile,South West,51,22.71,24.56,False,False,False,-0.08400530494078767
+CONS_02779,broadband,North West,6,21.73,22.72,False,False,False,-0.125875471050026
+CONS_03089,mobile,South West,102,17.2,19.45,False,False,False,-0.010331816646296454
+CONS_09777,broadband,South East,7,20.34,21.46,False,False,False,-0.11390797038204292
+CONS_03963,mobile,South West,44,21.22,27.92,True,True,False,-0.037172731449628404
+CONS_03509,mobile,South East,17,27.0,32.71,False,False,False,-0.09245674168579326
+CONS_05042,broadband,Midlands,21,35.18,35.26,False,False,False,-0.0981645118982773
+CONS_04679,broadband,London,14,29.46,34.22,False,False,False,-0.10143985963498292
+CONS_08192,subscription,London,16,15.06,15.65,False,False,False,-0.09487009356695675
+CONS_07220,broadband,North West,24,27.78,29.67,False,False,False,-0.1436485996871404
+CONS_07986,broadband,South East,21,25.46,26.27,False,False,False,-0.1423828039260019
+CONS_01378,subscription,South East,11,9.87,10.26,False,False,False,-0.0889240850945246
+CONS_00326,mobile,London,42,17.15,19.92,False,False,False,-0.07297981469146764
+CONS_04801,mobile,London,22,10.84,10.9,False,False,False,-0.06465302374267246
+CONS_02176,mobile,South East,6,20.64,22.39,False,False,False,-0.14581823862443039
+CONS_09566,mobile,Scotland,20,24.1,24.72,False,False,False,-0.1438931698982598
+CONS_09141,mobile,Midlands,62,29.74,37.53,True,True,True,0.0007616239457532981
+CONS_00559,mobile,Midlands,4,23.86,24.83,False,False,False,-0.13875856718818885
+CONS_02156,subscription,London,2,15.79,15.92,False,False,False,-0.06608936464289461
+CONS_02146,subscription,London,1,15.36,15.73,False,False,False,-0.06886460741119321
+CONS_09480,mobile,North West,13,16.24,17.59,False,False,False,-0.127455726343022
+CONS_01514,mobile,London,4,18.1,20.04,False,False,False,-0.116208046776269
+CONS_08041,broadband,London,8,28.76,28.48,False,False,False,-0.11991624020202807
+CONS_01600,broadband,London,28,35.44,39.08,False,False,False,-0.05787162464785833
+CONS_09421,broadband,South West,19,23.21,26.66,False,False,False,-0.11058327513618066
+CONS_00410,subscription,South East,5,10.2,11.68,False,False,False,-0.07406685084756776
+CONS_09754,broadband,South West,80,18.5,19.68,False,False,False,-0.014657268465262274
+CONS_00131,broadband,South West,4,25.48,23.83,False,False,False,-0.08500789025492672
+CONS_03504,mobile,South East,7,31.43,32.24,False,False,False,-0.0991215452808688
+CONS_03967,mobile,North West,19,21.59,19.9,False,False,False,-0.11605007957336522
+CONS_05960,broadband,London,11,33.98,33.46,False,False,False,-0.09455042239491529
+CONS_02036,subscription,South West,12,12.22,12.71,False,False,False,-0.0922228767543028
+CONS_09115,mobile,London,26,18.54,21.34,False,False,False,-0.10528489327293128
+CONS_01400,broadband,North East,18,17.35,20.67,False,False,False,-0.06993934985564126
+CONS_09674,mobile,South East,43,17.13,15.12,False,False,False,-0.040240520966455584
+CONS_01941,broadband,Scotland,106,20.56,26.54,True,True,True,0.025118476442231752
+CONS_04066,subscription,Scotland,1,9.55,10.26,False,False,False,-0.06233578566804665
+CONS_04416,subscription,Scotland,11,13.13,13.91,False,False,False,-0.11774056975592395
+CONS_01948,subscription,North West,18,9.97,10.17,False,False,False,-0.08934769627011774
+CONS_06427,broadband,South East,12,24.94,24.02,False,False,False,-0.12278814300630686
+CONS_06380,mobile,South East,11,19.44,21.04,False,False,False,-0.1491909225000997
+CONS_09965,broadband,South East,5,21.63,25.37,False,False,False,-0.10774550765855495
+CONS_00219,subscription,London,1,13.61,14.0,False,False,False,-0.07497900516061151
+CONS_09469,mobile,Midlands,92,17.56,23.8,True,True,True,0.018710241263850458
+CONS_08302,broadband,London,15,32.94,34.8,False,False,False,-0.10936654927937944
+CONS_05280,mobile,North East,116,24.19,26.72,False,False,False,-0.021851005019383196
+CONS_00949,subscription,North West,7,17.41,18.88,False,False,False,-0.09496734959443598
+CONS_09192,broadband,Scotland,4,26.42,26.75,False,False,False,-0.14077034079182082
+CONS_08832,mobile,Midlands,98,20.07,17.48,False,False,True,0.014365625790671466
+CONS_02225,subscription,London,14,11.43,11.65,False,False,False,-0.08856591140152853
+CONS_00649,mobile,South East,17,17.27,18.04,False,False,False,-0.1363699299388758
+CONS_08310,subscription,South East,25,16.51,18.32,False,False,False,-0.08758061452883487
+CONS_04760,subscription,North West,53,11.61,14.41,True,True,False,-0.02344354574294938
+CONS_02848,broadband,Midlands,64,41.59,54.63,True,True,True,0.08858653085532575
+CONS_05765,mobile,North West,116,28.25,29.26,False,False,False,-0.0006742302214309825
+CONS_07388,broadband,Midlands,22,26.18,30.86,False,False,False,-0.11617743957030385
+CONS_07013,broadband,North East,7,28.3,25.83,False,False,False,-0.09714877290912688
+CONS_03816,broadband,North East,12,24.32,24.92,False,False,False,-0.13188460273702984
+CONS_00684,mobile,South West,11,25.29,28.43,False,False,False,-0.11471981367664996
+CONS_05016,broadband,South West,12,36.71,38.32,False,False,False,-0.06853103120411297
+CONS_09299,mobile,North West,37,24.14,21.1,False,False,False,-0.07180244254198631
+CONS_00923,mobile,Midlands,53,15.91,17.9,False,False,False,-0.06959782387829994
+CONS_09541,subscription,London,76,13.54,14.31,False,False,False,-0.0246922428134565
+CONS_03008,broadband,North West,22,37.58,40.94,False,False,False,-0.0741391297075999
+CONS_05769,broadband,North West,2,26.26,28.11,False,False,False,-0.13526177387249705
+CONS_01442,broadband,South East,118,37.81,35.94,False,False,True,0.06091621425153637
+CONS_06005,broadband,London,5,35.49,39.96,False,False,False,-0.0567285513615301
+CONS_02981,mobile,South East,35,21.53,25.41,True,True,False,-0.11180177941579544
+CONS_06583,mobile,London,15,11.89,13.07,False,False,False,-0.07447110572576587
+CONS_02766,subscription,London,43,11.85,11.81,False,False,False,-0.04405444613488807
+CONS_04247,subscription,Scotland,9,17.09,18.66,False,False,False,-0.09643583955188173
+CONS_09272,subscription,London,7,10.94,11.2,False,False,False,-0.08161820248510188
+CONS_06759,mobile,North West,4,23.56,26.06,False,False,False,-0.14040867421870934
+CONS_02595,broadband,Wales,12,39.32,50.55,False,False,True,0.07350325939447977
+CONS_00440,mobile,North West,19,30.6,38.1,False,False,False,-0.03311395750164925
+CONS_08201,broadband,Midlands,17,21.21,26.02,False,False,False,-0.07960819802722152
+CONS_05141,mobile,Scotland,21,23.14,21.75,False,False,False,-0.1219988688775634
+CONS_04594,broadband,South West,43,18.11,19.73,False,False,False,-0.05835579973244864
+CONS_01571,mobile,South West,10,16.6,18.84,False,False,False,-0.09812360383652236
+CONS_07558,broadband,South West,6,29.69,32.58,False,False,False,-0.11246221506786275
+CONS_08625,broadband,North West,17,31.62,36.19,False,False,False,-0.12155908999940573
+CONS_01843,broadband,Wales,58,32.35,37.86,False,False,True,0.0013745104739197878
+CONS_05845,mobile,South West,23,28.95,26.54,False,False,False,-0.06643258978178423
+CONS_03384,mobile,London,13,25.47,26.62,False,False,False,-0.13100293738194302
+CONS_04211,mobile,Midlands,97,30.09,37.87,True,True,True,0.04321784992373845
+CONS_01288,broadband,North East,55,21.07,18.42,False,False,True,0.005800938026392477
+CONS_09661,broadband,North West,19,28.41,29.77,False,False,False,-0.14987103934887108
+CONS_08369,broadband,London,2,23.0,25.55,False,False,False,-0.10361761228235211
+CONS_07186,mobile,Scotland,8,25.44,25.83,False,False,False,-0.14704928994535715
+CONS_06381,mobile,North East,10,25.92,26.63,False,False,False,-0.13655370485504342
+CONS_07581,broadband,London,42,23.23,23.65,False,False,False,-0.07990032926618268
+CONS_01767,subscription,Scotland,16,12.52,13.11,False,False,False,-0.11965882123988847
+CONS_08141,broadband,Wales,22,22.71,20.65,False,False,False,-0.03663553373154582
+CONS_05275,broadband,Wales,18,49.88,52.25,False,False,True,0.07089980654701022
+CONS_01113,mobile,London,18,21.39,23.08,False,False,False,-0.13425883281600154
+CONS_09693,mobile,Midlands,4,24.86,23.11,False,False,False,-0.09931415747939543
+CONS_09981,broadband,London,14,32.09,36.48,False,False,False,-0.0980732642539287
+CONS_04258,mobile,North West,53,15.43,16.22,False,False,False,-0.07410986736501207
+CONS_01814,broadband,North East,1,30.6,34.24,False,False,False,-0.10409710033613528
+CONS_08715,broadband,Scotland,20,30.42,31.94,False,False,False,-0.1424931549404631
+CONS_02043,mobile,South West,6,18.18,18.95,False,False,False,-0.1149886501092317
+CONS_00999,subscription,Scotland,47,16.53,17.52,False,False,False,-0.07578068685960476
+CONS_00255,broadband,Midlands,22,26.75,27.17,False,False,False,-0.13468629948688038
+CONS_09835,subscription,Midlands,59,10.53,11.09,False,False,False,-0.043157380427194414
+CONS_04513,subscription,Wales,55,12.32,14.55,True,True,False,-0.00311808318370721
+CONS_07952,mobile,Midlands,2,23.44,27.22,False,False,False,-0.10172006650470305
+CONS_07409,mobile,North East,18,24.52,22.15,False,False,False,-0.09861582585103901
+CONS_00859,broadband,Midlands,17,26.19,26.87,False,False,False,-0.14254960576014347
+CONS_03493,subscription,Midlands,1,9.84,9.88,False,False,False,-0.05175085121189549
+CONS_02943,subscription,Scotland,15,11.95,12.38,False,False,False,-0.11349056608544966
+CONS_01851,broadband,London,37,31.78,39.07,True,True,False,-0.02955072365969036
+CONS_04494,broadband,South West,1,27.49,28.74,False,False,False,-0.1094365178683811
+CONS_05630,broadband,South East,4,23.72,24.32,False,False,False,-0.13273351355578644
+CONS_05619,mobile,South East,14,25.94,25.32,False,False,False,-0.13764015367647447
+CONS_06864,broadband,London,10,22.97,23.82,False,False,False,-0.11996570328847156
+CONS_09718,broadband,South West,10,32.48,36.8,False,False,False,-0.09427194505031605
+CONS_04038,subscription,South East,24,14.14,13.96,False,False,False,-0.0979585005565361
+CONS_01752,broadband,London,2,33.75,35.94,False,False,False,-0.08357781759206007
+CONS_07512,mobile,South East,5,20.68,24.16,False,False,False,-0.12927717151481855
+CONS_03372,broadband,North West,21,29.65,28.21,False,False,False,-0.12313907269641061
+CONS_00832,mobile,London,16,24.09,22.95,False,False,False,-0.11344577695172653
+CONS_00109,broadband,South West,35,24.7,30.11,True,True,False,-0.06930524112543351
+CONS_00743,subscription,London,13,10.18,10.93,False,False,False,-0.07850830084468607
+CONS_00160,subscription,Midlands,26,12.89,14.11,False,False,False,-0.09710299783334547
+CONS_02881,broadband,London,3,33.14,35.52,False,False,False,-0.0950630014035112
+CONS_02917,broadband,North West,24,22.25,23.41,False,False,False,-0.12951677916710508
+CONS_02083,mobile,South East,28,23.74,31.18,True,True,False,-0.06142089897204994
+CONS_03752,mobile,Scotland,8,19.73,20.59,False,False,False,-0.14978245360040093
+CONS_09443,mobile,South East,7,30.63,33.98,False,False,False,-0.08826464684636343
+CONS_01988,mobile,London,15,17.43,23.76,False,False,False,-0.03516663751150084
+CONS_08287,mobile,North West,1,23.75,25.36,False,False,False,-0.1313715245652909
+CONS_08352,subscription,Midlands,7,6.34,6.94,False,False,False,-0.021666666024183656
+CONS_00811,broadband,North West,26,28.83,29.43,False,False,False,-0.1345687938423239
+CONS_09542,subscription,Midlands,9,13.06,14.31,False,False,False,-0.10632852191965325
+CONS_08548,mobile,Midlands,1,27.14,26.96,False,False,False,-0.11277668746181552
+CONS_08820,subscription,Midlands,110,12.77,15.4,False,False,True,0.03133851398836718
+CONS_05673,broadband,Wales,18,32.08,30.16,False,False,False,-0.056241788594997844
+CONS_08023,subscription,London,21,10.24,10.47,False,False,False,-0.06895347395972473
+CONS_07667,subscription,South East,44,12.06,14.84,True,True,False,-0.043851092314514784
+CONS_01615,subscription,South West,6,12.69,12.54,False,False,False,-0.08005986990701092
+CONS_06502,broadband,London,29,39.0,39.12,False,False,False,-0.02897734131030194
+CONS_02320,subscription,South West,80,9.05,11.69,True,True,True,0.06392255478780906
+CONS_09231,broadband,Midlands,64,37.98,56.7,True,True,True,0.10761079946709262
+CONS_00696,mobile,London,7,26.22,29.58,False,False,False,-0.11115390115549434
+CONS_09391,mobile,South East,6,19.25,22.31,False,False,False,-0.12733229678983526
+CONS_08813,mobile,South West,19,22.13,23.78,False,False,False,-0.12887312835990894
+CONS_04642,broadband,Midlands,15,24.2,23.88,False,False,False,-0.12631126875714965
+CONS_04183,mobile,Scotland,11,19.54,18.91,False,False,False,-0.13470586540059476
+CONS_09385,mobile,London,3,23.38,26.07,False,False,False,-0.11428824917238145
+CONS_03457,subscription,London,1,7.63,8.06,False,False,False,-0.010501566109111904
+CONS_07998,mobile,Scotland,6,29.91,29.71,False,False,False,-0.10904864866347952
+CONS_07317,subscription,Midlands,6,7.37,8.22,False,False,False,-0.021909037586683056
+CONS_02362,broadband,Scotland,30,29.77,37.6,True,True,False,-0.05811591610853628
+CONS_05579,subscription,Scotland,34,10.84,11.32,False,False,False,-0.08661227955042877
+CONS_00918,broadband,Wales,14,26.0,26.49,False,False,False,-0.09273615085615156
+CONS_04024,subscription,South East,24,17.37,15.65,False,False,False,-0.045461458938740984
+CONS_03213,subscription,North West,15,8.85,8.72,False,False,False,-0.054532271994582104
+CONS_05359,broadband,Wales,65,29.41,38.48,True,True,True,0.02674232203952176
+CONS_02099,broadband,South West,27,27.98,29.45,False,False,False,-0.11693033646438078
+CONS_04926,broadband,Midlands,73,35.69,35.79,False,False,False,-0.016391821084405622
+CONS_06604,broadband,London,6,31.77,28.72,False,False,False,-0.07503522319607886
+CONS_04810,mobile,London,6,24.98,25.35,False,False,False,-0.12319705352671478
+CONS_03365,broadband,South East,8,34.39,32.82,False,False,False,-0.09509942690988143
+CONS_03899,broadband,North West,13,27.46,24.25,False,False,False,-0.09228785904394676
+CONS_02641,mobile,Scotland,60,19.04,22.01,False,False,False,-0.07938316521507077
+CONS_07070,mobile,London,3,25.98,24.17,False,False,False,-0.09062925153997575
+CONS_06252,broadband,Midlands,6,34.59,36.25,False,False,False,-0.10812388754748603
+CONS_03121,broadband,London,18,37.36,37.74,False,False,False,-0.060263471921856326
+CONS_00139,subscription,South East,45,14.15,13.29,False,False,False,-0.05303102178532093
+CONS_03424,mobile,Scotland,41,20.31,23.07,False,False,False,-0.11384308195401754
+CONS_08395,broadband,South East,5,19.2,22.9,False,False,False,-0.08505190537326457
+CONS_09845,broadband,North East,11,30.64,32.27,False,False,False,-0.13168578614859572
+CONS_00892,subscription,South East,13,13.32,14.44,False,False,False,-0.11633621091337343
+CONS_03779,subscription,London,16,12.36,11.54,False,False,False,-0.05942929784606388
+CONS_08416,subscription,North West,6,10.23,10.25,False,False,False,-0.08656189804822556
+CONS_05329,mobile,Scotland,22,24.4,24.92,False,False,False,-0.1417866056789147
+CONS_00947,mobile,North East,30,21.04,22.13,False,False,False,-0.12856694540578656
+CONS_04539,broadband,North East,19,22.95,23.5,False,False,False,-0.1254717157566811
+CONS_06669,broadband,North West,13,24.67,26.53,False,False,False,-0.14730386059271772
+CONS_01451,subscription,South West,4,14.86,12.08,False,False,True,3.3124140621509923e-06
+CONS_05810,subscription,London,43,9.97,11.78,True,True,False,-0.023317366853827015
+CONS_08043,subscription,Scotland,23,16.37,18.6,False,False,False,-0.08259985481833498
+CONS_09849,broadband,Midlands,6,30.35,33.13,False,False,False,-0.12341776470352073
+CONS_02170,mobile,Wales,6,29.36,34.34,False,False,False,-0.02023365418245271
+CONS_00689,subscription,North West,113,13.13,12.63,False,False,True,0.023810566956294354
+CONS_06012,mobile,North West,11,28.31,30.84,False,False,False,-0.12065010944271698
+CONS_09735,broadband,Wales,7,28.21,29.53,False,False,False,-0.09263495524610155
+CONS_04234,subscription,South East,4,19.46,21.77,False,False,False,-0.07199151711630808
+CONS_04505,broadband,Wales,18,37.56,35.27,False,False,False,-0.010590925545974184
+CONS_05298,broadband,London,9,31.97,34.36,False,False,False,-0.10444212481164511
+CONS_00383,subscription,London,21,10.41,9.88,False,False,False,-0.040521950078923896
+CONS_07764,broadband,North West,1,30.66,31.95,False,False,False,-0.11682184018252884
+CONS_03639,subscription,South West,4,13.2,12.8,False,False,False,-0.06421246021753724
+CONS_08859,broadband,South East,48,33.78,32.33,False,False,False,-0.0583077395007342
+CONS_04894,broadband,South West,50,35.41,35.76,False,False,False,-0.037393339053014896
+CONS_05956,mobile,South West,33,21.53,23.92,False,False,False,-0.1096725817878203
+CONS_06605,mobile,Wales,16,19.88,21.27,False,False,False,-0.09531384682543254
+CONS_03757,broadband,North East,61,21.45,21.08,False,False,False,-0.04417210638591107
+CONS_04313,broadband,Midlands,4,40.44,36.45,False,False,False,-0.023068025257460878
+CONS_06559,subscription,South East,74,13.04,14.08,False,False,False,-0.04053767704404099
+CONS_01259,mobile,North West,22,25.47,28.62,False,False,False,-0.13856626674479283
+CONS_07953,subscription,London,56,11.32,11.07,False,False,False,-0.022613436903980433
+CONS_03311,subscription,Scotland,23,9.99,12.08,False,False,False,-0.06341566873045246
+CONS_00658,broadband,Midlands,18,19.94,27.21,False,False,False,-0.026660409347258107
+CONS_04891,broadband,North East,14,22.36,22.0,False,False,False,-0.11129050144538705
+CONS_06465,mobile,South East,59,25.62,26.62,False,False,False,-0.09654501067429905
+CONS_01035,mobile,South West,106,27.08,26.65,False,False,False,-0.003016938177927475
+CONS_01140,mobile,London,37,16.62,18.91,False,False,False,-0.08096914119394971
+CONS_07698,subscription,Midlands,5,15.19,16.99,False,False,False,-0.0844092323062633
+CONS_07282,broadband,North East,120,26.77,30.69,False,False,False,-0.0053303892438989475
+CONS_05192,mobile,South East,24,22.27,21.48,False,False,False,-0.13068631772831746
+CONS_04567,subscription,Wales,29,9.51,9.55,False,False,False,-0.00447399833365314
+CONS_02866,broadband,South West,12,27.48,27.76,False,False,False,-0.12652666806489538
+CONS_03794,broadband,Wales,22,26.25,25.05,False,False,False,-0.07013262638208695
+CONS_04099,mobile,South West,35,17.7,19.1,False,False,False,-0.09783148486869003
+CONS_07113,mobile,London,13,25.61,25.62,False,False,False,-0.12911945234397848
+CONS_06776,broadband,South West,14,25.35,23.07,False,False,False,-0.08110737651292249
+CONS_02311,subscription,South West,12,14.13,14.48,False,False,False,-0.09258548260712768
+CONS_03758,broadband,North West,18,28.43,29.69,False,False,False,-0.1490504603244529
+CONS_05710,mobile,London,5,23.97,25.91,False,False,False,-0.12594366633797233
+CONS_02702,mobile,Midlands,4,15.76,16.96,False,False,False,-0.1126585078428346
+CONS_01165,broadband,Midlands,20,27.16,29.94,False,False,False,-0.13700108390300214
+CONS_05651,subscription,Wales,46,15.8,20.07,True,True,True,0.012129637462978127
+CONS_01680,mobile,South East,14,43.36,43.89,False,False,True,0.009099070649454699
+CONS_04379,subscription,South West,14,10.5,9.94,False,False,False,-0.048897073367183075
+CONS_02427,broadband,Wales,52,35.02,48.51,True,True,True,0.07784290969236385
+CONS_01722,broadband,Scotland,22,29.12,28.76,False,False,False,-0.13724082826174883
+CONS_07219,broadband,London,46,28.87,30.19,False,False,False,-0.08438519644351855
+CONS_06234,broadband,North West,2,29.08,31.06,False,False,False,-0.1288421449106294
+CONS_08697,broadband,South East,14,26.97,33.15,False,False,False,-0.10235791268697408
+CONS_05200,mobile,Scotland,12,23.17,24.66,False,False,False,-0.15158071095055664
+CONS_03768,broadband,South East,1,21.87,24.49,False,False,False,-0.10942923478017363
+CONS_06069,broadband,South East,19,32.13,33.04,False,False,False,-0.13257407848865793
+CONS_06803,mobile,South East,6,22.52,22.88,False,False,False,-0.1456029435115162
+CONS_05981,mobile,London,120,26.5,35.5,True,True,True,0.06354636151790405
+CONS_09503,mobile,Scotland,116,25.38,29.13,False,False,False,-0.011202554070220083
+CONS_04531,subscription,South East,24,12.15,14.26,False,False,False,-0.08673123382334452
+CONS_03685,broadband,South East,17,30.74,35.46,False,False,False,-0.12142053089970656
+CONS_00012,subscription,North West,7,8.91,8.38,False,False,False,-0.029784140748787324
+CONS_07184,broadband,London,39,22.63,26.57,False,False,False,-0.07237976402172674
+CONS_00589,broadband,London,6,28.88,33.16,False,False,False,-0.09752740250348246
+CONS_00887,broadband,Scotland,3,32.9,32.59,False,False,False,-0.11665603950378162
+CONS_08359,subscription,London,31,10.4,10.61,False,False,False,-0.05697310765771668
+CONS_07865,mobile,South West,17,28.48,31.95,False,False,False,-0.10107349961953355
+CONS_01955,subscription,South West,10,13.46,11.73,False,False,False,-0.019535228544902306
+CONS_01425,broadband,London,12,20.47,18.75,False,False,False,-0.05973527290788294
+CONS_01020,mobile,Midlands,7,28.28,28.5,False,False,False,-0.11726929548695275
+CONS_04603,subscription,Scotland,73,12.77,11.25,False,False,True,0.02306936553306993
+CONS_08022,broadband,South West,120,21.21,28.37,True,True,True,0.06165258206812141
+CONS_08033,mobile,South East,83,20.21,18.48,False,False,False,-0.01644540056423993
+CONS_06130,broadband,North West,4,33.99,40.28,False,False,False,-0.07152592858833506
+CONS_02221,broadband,Midlands,10,31.52,36.08,False,False,False,-0.10709734663066145
+CONS_00148,mobile,London,5,31.66,33.7,False,False,False,-0.0664832745463313
+CONS_03432,mobile,North West,7,19.36,21.1,False,False,False,-0.143706343876164
+CONS_01909,subscription,North West,120,9.24,9.58,False,False,True,0.04712493320899247
+CONS_01048,subscription,North West,68,11.22,11.6,False,False,False,-0.04115460298998386
+CONS_05594,broadband,North West,18,43.48,42.1,False,False,False,-0.022083601641354922
+CONS_04093,subscription,North East,2,12.01,11.81,False,False,False,-0.07609340675004628
+CONS_09664,subscription,North West,15,10.44,10.28,False,False,False,-0.08989955522169096
+CONS_09931,broadband,North East,93,32.95,42.07,True,True,True,0.04411265996084168
+CONS_01869,mobile,London,8,33.65,34.37,False,False,False,-0.06303939953502058
+CONS_09029,broadband,London,10,36.22,40.41,False,False,False,-0.05770897130062913
+CONS_07689,broadband,Midlands,49,28.51,29.75,False,False,False,-0.10340188736518957
+CONS_02566,broadband,London,9,40.76,50.55,False,False,True,0.051022565350262616
+CONS_00678,mobile,Midlands,6,13.67,16.5,False,False,False,-0.06441822562974298
+CONS_05015,broadband,North West,7,23.82,24.53,False,False,False,-0.1385971255224221
+CONS_02209,broadband,South East,17,28.2,28.86,False,False,False,-0.1483609735166035
+CONS_06033,broadband,London,34,46.49,56.61,True,True,True,0.08191393735829311
+CONS_03167,broadband,London,5,25.61,25.21,False,False,False,-0.11863192270286882
+CONS_04508,broadband,London,19,26.24,25.61,False,False,False,-0.11741477260677813
+CONS_04850,subscription,London,5,11.35,11.15,False,False,False,-0.07090549401072516
+CONS_07492,subscription,Midlands,7,13.26,14.66,False,False,False,-0.09949680145967621
+CONS_09978,subscription,South East,39,19.3,23.28,True,True,False,-0.043489909181145925
+CONS_07292,broadband,London,3,29.36,29.24,False,False,False,-0.11302203216838697
+CONS_00564,mobile,London,37,20.1,19.28,False,False,False,-0.08959279317583996
+CONS_07811,broadband,South West,8,20.92,20.99,False,False,False,-0.09752837930215613
+CONS_00775,broadband,London,90,35.45,34.6,False,False,True,0.01550586459632719
+CONS_01393,broadband,Midlands,6,24.37,27.11,False,False,False,-0.13030596680305162
+CONS_04749,subscription,North East,40,10.01,11.22,False,False,False,-0.0510686663500558
+CONS_08708,broadband,South East,3,25.24,23.97,False,False,False,-0.1073481826453978
+CONS_01840,mobile,London,8,19.51,18.2,False,False,False,-0.09359554012056465
+CONS_02660,broadband,South East,41,25.59,27.18,False,False,False,-0.12080920967125813
+CONS_01156,broadband,London,16,20.39,20.99,False,False,False,-0.09663959417141682
+CONS_04889,broadband,South West,2,28.97,31.4,False,False,False,-0.10837481044438252
+CONS_01689,mobile,Scotland,36,23.78,24.62,False,False,False,-0.1259020716751641
+CONS_04659,mobile,South East,23,16.88,18.22,False,False,False,-0.12695191975111358
+CONS_09291,mobile,London,18,29.64,29.71,False,False,False,-0.09854339678456953
+CONS_09482,broadband,London,8,31.09,33.52,False,False,False,-0.10757994346333033
+CONS_05435,mobile,South East,18,21.41,22.2,False,False,False,-0.14954871096295225
+CONS_01918,mobile,Wales,6,27.85,31.62,False,False,False,-0.05396766283843524
+CONS_07316,broadband,South West,5,21.25,25.12,False,False,False,-0.08887088635692564
+CONS_03210,broadband,South West,12,31.79,37.84,False,False,False,-0.07795194342322964
+CONS_01155,mobile,South East,14,22.31,23.6,False,False,False,-0.15418444952066568
+CONS_04401,subscription,London,104,11.94,15.6,True,True,True,0.06958337455163222
+CONS_09806,subscription,Midlands,16,13.2,15.26,False,False,False,-0.08850364009627038
+CONS_07474,mobile,Wales,14,46.57,46.69,False,False,True,0.0649050847328414
+CONS_02348,subscription,London,17,15.68,17.24,False,False,False,-0.0827468666998793
+CONS_04815,mobile,London,1,22.51,23.61,False,False,False,-0.11623247449913388
+CONS_04049,broadband,North West,19,28.22,28.36,False,False,False,-0.14487170023359275
+CONS_07255,mobile,Midlands,11,19.94,20.5,False,False,False,-0.14569348652611736
+CONS_08508,broadband,South East,8,33.69,33.83,False,False,False,-0.1193098348210263
+CONS_09024,mobile,North West,30,18.9,20.59,False,False,False,-0.1259558853887371
+CONS_01362,broadband,North West,38,47.75,49.0,False,False,True,0.04422847031415322
+CONS_01981,subscription,North West,15,10.24,10.99,False,False,False,-0.1022043222142417
+CONS_01636,mobile,North West,20,25.37,27.31,False,False,False,-0.14639719498706516
+CONS_08678,mobile,London,6,14.35,14.37,False,False,False,-0.08738692565021339
+CONS_08156,subscription,South East,18,9.27,10.15,False,False,False,-0.07658251514454634
+CONS_08091,broadband,Midlands,24,30.44,34.6,False,False,False,-0.10997264872011953
+CONS_04504,mobile,South West,23,21.04,21.96,False,False,False,-0.12711058945382075
+CONS_09379,broadband,Wales,120,33.56,38.63,True,True,True,0.060955046266436
+CONS_04887,broadband,Scotland,16,24.25,28.16,False,False,False,-0.13145363930798754
+CONS_07091,mobile,London,85,23.43,27.91,True,True,False,-0.029627174674771606
+CONS_04655,mobile,London,64,19.21,24.11,True,True,False,-0.034099347059752594
+CONS_00004,mobile,London,11,17.77,20.07,False,False,False,-0.11624058152977035
+CONS_03325,mobile,Wales,7,19.88,23.22,False,False,False,-0.06927106624116536
+CONS_00205,broadband,Midlands,11,30.04,34.62,False,False,False,-0.1142210464355693
+CONS_02263,mobile,North West,15,33.36,34.15,False,False,False,-0.07893388244030991
+CONS_03344,broadband,London,17,22.06,22.9,False,False,False,-0.11344155608419682
+CONS_07896,mobile,North East,10,22.76,22.76,False,False,False,-0.13701351554309565
+CONS_02952,subscription,London,20,8.98,8.28,False,False,False,-0.010718980769392705
+CONS_08171,subscription,Midlands,6,13.7,13.96,False,False,False,-0.10963169629409952
+CONS_05700,broadband,London,6,32.86,34.59,False,False,False,-0.10309594602528949
+CONS_05811,mobile,Wales,11,17.28,17.46,False,False,False,-0.07652412997839997
+CONS_00719,mobile,London,63,21.34,23.86,False,False,False,-0.07614791985684632
+CONS_02645,broadband,North West,71,29.18,29.55,False,False,False,-0.06556530564809315
+CONS_08735,subscription,South West,37,15.57,17.58,False,False,False,-0.05397550505218174
+CONS_07900,broadband,North West,3,30.88,33.3,False,False,False,-0.12404660828716929
+CONS_03151,broadband,Midlands,9,32.2,34.88,False,False,False,-0.1218931207594916
+CONS_02530,mobile,London,14,19.49,19.44,False,False,False,-0.1303852874822204
+CONS_07833,broadband,North West,15,27.95,28.14,False,False,False,-0.14695951836465398
+CONS_03956,mobile,Wales,18,16.98,18.45,False,False,False,-0.0800758889530147
+CONS_03895,subscription,London,23,17.07,16.85,False,False,False,-0.07251886892721465
+CONS_02768,mobile,South East,9,21.87,22.89,False,False,False,-0.1504910485322145
+CONS_07466,broadband,Scotland,3,25.26,26.96,False,False,False,-0.14204887614794087
+CONS_06216,broadband,Wales,21,25.65,25.67,False,False,False,-0.08602504665233379
+CONS_06836,broadband,North West,14,33.37,32.96,False,False,False,-0.12694918848827996
+CONS_07396,subscription,South West,2,12.64,13.27,False,False,False,-0.07603993531281433
+CONS_00395,broadband,Wales,3,32.73,32.73,False,False,False,-0.05550680882500636
+CONS_06243,broadband,South West,3,32.51,36.96,False,False,False,-0.07882625425436002
+CONS_09022,subscription,North West,15,13.56,14.08,False,False,False,-0.11976187686092798
+CONS_05827,mobile,North West,20,26.22,28.65,False,False,False,-0.1415219050336496
+CONS_07754,subscription,South East,15,14.26,13.68,False,False,False,-0.09920501286087713
+CONS_03239,broadband,South East,61,26.56,26.11,False,False,False,-0.07142924242572862
+CONS_02706,mobile,Midlands,68,16.69,18.83,False,False,False,-0.059308722798889435
+CONS_00922,subscription,Wales,18,16.68,16.67,False,False,False,-0.057424606692683455
+CONS_06622,broadband,North West,76,25.84,26.08,False,False,False,-0.06050847839139517
+CONS_09792,broadband,Wales,5,17.49,18.2,False,False,False,-0.038566762012120615
+CONS_02203,subscription,Wales,8,14.82,16.61,False,False,False,-0.05271359033941869
+CONS_01533,mobile,London,103,25.14,30.17,True,True,True,0.006315649058644346
+CONS_09464,broadband,London,20,25.33,23.86,False,False,False,-0.09528525995437076
+CONS_01449,mobile,Midlands,91,25.96,31.16,False,False,False,-0.018184670636049116
+CONS_09270,subscription,London,5,12.56,13.49,False,False,False,-0.087588429712811
+CONS_06527,broadband,London,9,24.72,23.64,False,False,False,-0.10443971601026819
+CONS_08338,broadband,Midlands,49,33.36,40.32,False,False,False,-0.030666466277383786
+CONS_00620,broadband,Midlands,9,29.84,31.71,False,False,False,-0.13262054835036852
+CONS_08643,broadband,Midlands,66,26.0,25.39,False,False,False,-0.057693091848138534
+CONS_01838,mobile,South West,11,28.15,29.2,False,False,False,-0.10302315664123579
+CONS_05668,subscription,North East,12,14.31,13.86,False,False,False,-0.10015954985647779
+CONS_01846,mobile,North West,120,23.66,27.73,False,False,False,-0.01162243776877614
+CONS_03759,subscription,London,16,13.28,14.2,False,False,False,-0.09449205631395657
+CONS_01178,broadband,Midlands,48,36.61,39.18,False,False,False,-0.037697224556293096
+CONS_09710,mobile,South West,25,19.99,19.82,False,False,False,-0.11469621961095827
+CONS_02394,broadband,London,5,23.37,21.9,False,False,False,-0.07636453743738447
+CONS_02097,broadband,North West,16,35.95,39.75,False,False,False,-0.09110202111489424
+CONS_05072,broadband,South West,24,32.23,34.37,False,False,False,-0.10398227188476672
+CONS_06824,broadband,South West,9,32.53,35.12,False,False,False,-0.10838387935720811
+CONS_03883,mobile,North West,23,10.93,11.27,False,False,False,-0.07717412614990538
+CONS_02216,broadband,London,43,21.43,26.38,True,True,False,-0.03902495252084881
+CONS_07840,broadband,Midlands,18,38.61,42.16,False,False,False,-0.047826260316559455
+CONS_09212,broadband,South East,120,27.31,31.17,False,False,False,-0.00634637462536447
+CONS_09186,subscription,Midlands,15,9.09,9.48,False,False,False,-0.06886859496576231
+CONS_01796,broadband,Midlands,7,22.89,25.98,False,False,False,-0.11716009708491892
+CONS_01585,mobile,South West,12,22.86,21.28,False,False,False,-0.10020678655435666
+CONS_01662,mobile,North West,28,19.07,24.68,True,True,False,-0.07009867546773324
+CONS_07938,broadband,Wales,10,25.33,25.2,False,False,False,-0.08271975411298188
+CONS_07546,broadband,London,83,33.58,32.11,False,False,False,-0.005028597841311155
+CONS_00535,broadband,London,12,34.54,36.28,False,False,False,-0.09894281911389363
+CONS_02694,subscription,South East,13,10.94,11.45,False,False,False,-0.10560487751578895
+CONS_09478,subscription,North West,11,12.38,11.25,False,False,False,-0.06107157523616358
+CONS_03878,subscription,South East,1,13.12,13.96,False,False,False,-0.08952921513498069
+CONS_01459,subscription,South West,5,17.32,16.54,False,False,False,-0.06548688897269661
+CONS_05229,broadband,London,2,32.33,31.58,False,False,False,-0.08717686019657445
+CONS_04341,broadband,Scotland,28,29.96,31.29,False,False,False,-0.13235140438956983
+CONS_05559,mobile,London,9,19.6,19.84,False,False,False,-0.12637069419502528
+CONS_07107,mobile,South West,19,18.21,20.45,False,False,False,-0.11801947436713017
+CONS_07976,subscription,South West,48,12.64,15.62,True,True,False,-0.027779836967451788
+CONS_00932,broadband,Midlands,44,28.95,30.93,False,False,False,-0.10248573673124961
+CONS_06303,mobile,North West,14,23.99,26.57,False,False,False,-0.1472119706355678
+CONS_09027,subscription,London,3,10.73,12.21,False,False,False,-0.054950628156286596
+CONS_02986,broadband,Midlands,75,32.22,33.71,False,False,False,-0.05430165127813913
+CONS_02236,subscription,South West,18,9.55,10.77,False,False,False,-0.058493213087568274
+CONS_03295,mobile,London,21,31.2,33.22,False,False,False,-0.07224608677611266
+CONS_04079,broadband,North West,21,25.28,27.57,False,False,False,-0.14925854406903477
+CONS_04056,subscription,London,6,16.43,17.33,False,False,False,-0.08230018232002079
+CONS_05310,broadband,South East,20,32.65,37.22,False,False,False,-0.10621316784238494
+CONS_06860,broadband,Midlands,18,25.59,27.21,False,False,False,-0.14249029679181152
+CONS_06202,mobile,Scotland,5,23.19,24.84,False,False,False,-0.14726463210569057
+CONS_09222,broadband,London,8,41.02,44.47,False,False,False,-0.021531211106812553
+CONS_05124,mobile,Midlands,38,18.65,22.35,True,True,False,-0.08705907685641262
+CONS_00043,mobile,Wales,51,27.4,23.21,False,False,True,0.011832405768442578
+CONS_04865,mobile,London,18,19.14,22.74,False,False,False,-0.1104086296844542
+CONS_09329,broadband,South East,10,21.02,22.79,False,False,False,-0.12094612426201268
+CONS_01712,broadband,London,49,29.42,33.99,False,False,False,-0.06446842084564852
+CONS_02582,subscription,London,2,12.84,13.04,False,False,False,-0.07251089740449068
+CONS_08334,mobile,North East,77,23.8,31.76,True,True,False,-0.005270452167544404
+CONS_01664,broadband,North West,20,17.73,20.46,False,False,False,-0.08473228195184784
+CONS_01863,subscription,South West,6,9.22,10.13,False,False,False,-0.04389325524870902
+CONS_03099,broadband,Midlands,92,26.74,29.1,False,False,False,-0.04302946690154452
+CONS_00741,broadband,North East,12,23.66,27.14,False,False,False,-0.12144431141478101
+CONS_05930,broadband,London,8,27.19,28.44,False,False,False,-0.12773180966205078
+CONS_09378,broadband,North East,10,30.07,32.24,False,False,False,-0.1361907834270787
+CONS_07106,broadband,North West,6,28.0,25.52,False,False,False,-0.10351893578385057
+CONS_02729,broadband,North West,15,23.32,26.95,False,False,False,-0.13264464005957544
+CONS_07172,mobile,Midlands,15,24.07,22.91,False,False,False,-0.12117708899219332
+CONS_02979,mobile,London,6,24.05,25.13,False,False,False,-0.12825657732904694
+CONS_09411,broadband,Midlands,23,33.48,30.05,False,False,False,-0.07459186035007775
+CONS_04637,broadband,Midlands,6,26.15,27.52,False,False,False,-0.14182903084674858
+CONS_09604,broadband,Scotland,82,31.43,34.03,False,False,False,-0.04383640581941384
+CONS_08717,broadband,North West,9,29.02,30.88,False,False,False,-0.14639567023633987
+CONS_07499,mobile,London,11,21.84,20.77,False,False,False,-0.11674712330683368
+CONS_09921,broadband,London,18,39.37,35.49,False,False,False,-0.025190001458122224
+CONS_06109,broadband,South West,16,22.06,21.25,False,False,False,-0.09423993408974074
+CONS_08695,subscription,North West,70,15.72,16.05,False,False,False,-0.04392004455047438
+CONS_05206,broadband,Wales,15,48.69,39.57,False,False,True,0.05825111994326693
+CONS_00508,subscription,London,23,12.24,13.12,False,False,False,-0.08680963273662134
+CONS_00628,broadband,London,25,20.74,23.26,False,False,False,-0.09294828938869076
+CONS_02544,broadband,Scotland,7,23.08,23.95,False,False,False,-0.1351982177928791
+CONS_02363,mobile,London,6,22.9,27.54,False,False,False,-0.09531760722868426
+CONS_03073,subscription,Scotland,7,11.46,10.19,False,False,False,-0.03640136968884378
+CONS_03095,mobile,North West,14,51.34,53.24,False,False,True,0.06075535983665714
+CONS_00704,subscription,Wales,120,11.26,15.54,True,True,True,0.1068127288684032
+CONS_00976,mobile,South East,16,22.76,23.29,False,False,False,-0.14974606538126572
+CONS_06939,broadband,South West,119,28.29,43.48,True,True,True,0.10165356860913022
+CONS_02386,subscription,North West,2,14.63,17.06,False,False,False,-0.07506321313110981
+CONS_03205,subscription,North West,1,14.85,14.7,False,False,False,-0.08671562787802872
+CONS_05840,broadband,Midlands,21,24.74,23.85,False,False,False,-0.11882941393992213
+CONS_07126,subscription,North East,16,14.95,15.9,False,False,False,-0.10614887488199148
+CONS_01832,subscription,South East,36,9.26,10.96,True,True,False,-0.03624067335542269
+CONS_05407,broadband,South East,117,30.4,29.94,False,False,True,0.009484212485394217
+CONS_07423,broadband,South East,7,27.35,25.41,False,False,False,-0.10452482704276789
+CONS_01368,broadband,Midlands,16,31.15,34.93,False,False,False,-0.11896078196564541
+CONS_00920,mobile,London,4,22.36,24.1,False,False,False,-0.12935167818880916
+CONS_00448,mobile,London,9,16.1,19.01,False,False,False,-0.09459183749914402
+CONS_06918,mobile,London,2,22.02,21.87,False,False,False,-0.11529183310102531
+CONS_05852,subscription,South East,21,11.93,11.53,False,False,False,-0.0842511550974897
+CONS_01590,broadband,South East,25,24.76,34.46,True,True,False,-0.038628398529952035
+CONS_09607,mobile,North East,8,20.98,23.51,False,False,False,-0.13396195883083478
+CONS_09954,mobile,North East,24,18.05,17.63,False,False,False,-0.1145249909383233
+CONS_02238,broadband,South East,21,30.03,30.67,False,False,False,-0.13812109575986153
+CONS_02021,mobile,South East,17,20.96,24.63,False,False,False,-0.13490499835632813
+CONS_05020,mobile,South East,17,27.94,28.51,False,False,False,-0.13647275694376942
+CONS_02829,subscription,Midlands,6,16.34,15.82,False,False,False,-0.0882948650361477
+CONS_03131,mobile,Wales,21,17.28,17.93,False,False,False,-0.07509588218933294
+CONS_08918,broadband,Midlands,23,29.38,26.85,False,False,False,-0.09266768378747592
+CONS_05500,broadband,London,16,41.33,35.39,False,False,False,-0.005359162071357115
+CONS_00371,subscription,South East,18,12.15,11.86,False,False,False,-0.09686756235296934
+CONS_02785,broadband,Scotland,4,29.63,31.4,False,False,False,-0.14134273119215013
+CONS_01916,broadband,Midlands,2,25.05,27.42,False,False,False,-0.12428767367646293
+CONS_03338,subscription,South West,15,16.78,17.09,False,False,False,-0.08593707744873619
+CONS_03641,broadband,London,6,36.94,36.39,False,False,False,-0.05855780180674397
+CONS_07554,broadband,North West,48,33.47,41.18,True,True,False,-0.028736998586057716
+CONS_07571,mobile,North West,15,21.17,19.23,False,False,False,-0.10671540227258697
+CONS_01866,subscription,Scotland,21,16.75,12.83,False,False,False,-0.016070395269213278
+CONS_03881,mobile,Midlands,17,15.7,15.57,False,False,False,-0.11249477365143495
+CONS_08730,broadband,Wales,14,41.78,41.11,False,False,True,0.00638016906583172
+CONS_00720,subscription,Scotland,10,12.76,13.95,False,False,False,-0.11439013589016245
+CONS_03505,mobile,London,60,23.76,23.91,False,False,False,-0.07366898027087654
+CONS_06522,mobile,London,4,25.42,28.77,False,False,False,-0.10958351748465323
+CONS_06967,mobile,North West,5,35.4,39.93,False,False,False,-0.0304048712108268
+CONS_09638,subscription,South West,16,12.86,14.94,False,False,False,-0.07479214887168611
+CONS_09899,mobile,London,33,18.59,22.6,True,True,False,-0.06534622264219037
+CONS_00269,broadband,Midlands,8,24.99,24.99,False,False,False,-0.13048712083035013
+CONS_01731,subscription,South West,77,10.44,10.32,False,False,True,0.012062866049259324
+CONS_05147,subscription,North East,17,10.04,10.45,False,False,False,-0.09162223583042545
+CONS_05878,broadband,North East,22,20.97,23.85,False,False,False,-0.10738106636343908
+CONS_01515,subscription,South East,35,11.65,10.06,False,False,False,-0.0008585921048560596
+CONS_05748,subscription,Midlands,37,11.46,13.27,False,False,False,-0.05585766288528926
+CONS_02074,subscription,London,2,11.96,10.9,False,False,False,-0.02444663771363831
+CONS_06470,subscription,South East,31,16.08,21.36,True,True,False,-0.006392223523796092
+CONS_06652,subscription,Midlands,12,8.2,8.37,False,False,False,-0.046244935492021355
+CONS_05398,broadband,South East,42,29.01,24.08,False,False,False,-0.03860369212128556
+CONS_08157,subscription,Midlands,15,10.34,9.87,False,False,False,-0.06784002957601143
+CONS_09502,mobile,London,40,26.87,29.28,False,False,False,-0.08848249167562128
+CONS_07030,subscription,South West,25,12.66,12.88,False,False,False,-0.08366023307596904
+CONS_05754,subscription,Scotland,15,9.77,9.88,False,False,False,-0.0809251352921056
+CONS_08274,mobile,North West,2,23.33,23.44,False,False,False,-0.12646905075953596
+CONS_04000,broadband,North West,13,33.63,34.72,False,False,False,-0.12687729660791525
+CONS_03642,broadband,Midlands,120,30.78,32.06,False,False,False,-0.0036738307415551397
+CONS_05984,broadband,London,17,31.94,28.79,False,False,False,-0.07539857110776116
+CONS_08535,mobile,South East,6,17.95,17.45,False,False,False,-0.11868830516324935
+CONS_03026,broadband,London,9,20.0,22.05,False,False,False,-0.09395662131169247
+CONS_05351,subscription,London,13,12.42,12.59,False,False,False,-0.09106902001233913
+CONS_07311,broadband,Midlands,39,34.82,42.27,False,False,False,-0.012774070793472259
+CONS_04747,mobile,South East,2,18.24,17.66,False,False,False,-0.1067293995227227
+CONS_01252,broadband,Midlands,113,24.1,24.8,False,False,False,-0.017637929493790283
+CONS_03123,broadband,North West,16,32.08,33.5,False,False,False,-0.1386436579364756
+CONS_00252,subscription,North East,8,11.95,13.03,False,False,False,-0.10297021353872915
+CONS_09453,subscription,Midlands,2,12.17,12.99,False,False,False,-0.08698541090281015
+CONS_07208,broadband,London,10,28.95,32.07,False,False,False,-0.11270030855930546
+CONS_02737,broadband,South East,2,35.14,32.86,False,False,False,-0.07004035096023775
+CONS_05078,broadband,Midlands,16,26.72,28.26,False,False,False,-0.14657654576835322
+CONS_04025,subscription,Scotland,17,13.5,14.47,False,False,False,-0.12120555643017294
+CONS_01359,mobile,South East,14,37.6,38.21,False,False,False,-0.037380696801649904
+CONS_09038,mobile,London,8,28.75,34.38,False,False,False,-0.05828018304584459
+CONS_00495,subscription,South West,14,10.13,9.96,False,False,False,-0.055756017053318785
+CONS_09281,subscription,North West,19,18.5,22.62,False,False,False,-0.049230445010671864
+CONS_00397,subscription,London,19,11.02,11.25,False,False,False,-0.08360476316380167
+CONS_04582,subscription,South East,8,10.17,9.66,False,False,False,-0.05804887072035714
+CONS_00784,mobile,South East,11,23.54,27.18,False,False,False,-0.1356066053168029
+CONS_05279,broadband,South West,20,27.23,30.43,False,False,False,-0.12549637881760667
+CONS_07285,subscription,South West,8,12.59,12.74,False,False,False,-0.08591892681290825
+CONS_08188,mobile,Scotland,11,19.71,17.43,False,False,False,-0.09334719182528506
+CONS_03144,broadband,Midlands,22,25.38,27.35,False,False,False,-0.13942608901045894
+CONS_01073,mobile,South West,7,29.46,29.25,False,False,False,-0.08811456368747672
+CONS_02935,mobile,North East,22,30.95,35.11,False,False,False,-0.07785483047460362
+CONS_02207,mobile,North West,18,25.84,29.37,False,False,False,-0.13550223478573914
+CONS_03616,mobile,London,27,17.27,21.67,True,True,False,-0.06324447467713035
+CONS_04148,mobile,South West,8,16.92,15.59,False,False,False,-0.07529833818592319
+CONS_07892,subscription,North West,2,11.23,12.05,False,False,False,-0.0958074213287558
+CONS_05239,mobile,Midlands,28,17.21,18.49,False,False,False,-0.12359866708717604
+CONS_00570,mobile,North East,8,16.86,16.18,False,False,False,-0.11010072074503702
+CONS_06453,mobile,South East,19,19.21,20.92,False,False,False,-0.14621269688534494
+CONS_02823,broadband,London,22,27.93,29.88,False,False,False,-0.11850432507296504
+CONS_06779,broadband,North West,10,43.06,47.96,False,False,False,-0.0044798419811499235
+CONS_06610,broadband,South West,23,26.59,29.38,False,False,False,-0.12026089348586094
+CONS_09364,mobile,South East,5,26.8,32.24,False,False,False,-0.09744794996846107
+CONS_03949,subscription,North East,19,18.99,16.35,False,False,False,-0.030506796116241408
+CONS_08443,broadband,London,16,22.48,23.86,False,False,False,-0.12147408855679154
+CONS_02765,broadband,North West,15,29.88,28.51,False,False,False,-0.1308524801770941
+CONS_05313,broadband,South East,9,32.06,34.1,False,False,False,-0.13381641506887215
+CONS_03270,broadband,Midlands,11,29.64,30.18,False,False,False,-0.13656076638052184
+CONS_07487,broadband,Scotland,46,27.41,28.18,False,False,False,-0.10718638840447375
+CONS_09808,broadband,Midlands,8,38.64,40.93,False,False,False,-0.060809262833360855
+CONS_08094,subscription,North West,2,18.8,21.39,False,False,False,-0.06118565770529105
+CONS_08573,subscription,North West,16,10.6,10.68,False,False,False,-0.10195875729008441
+CONS_08305,subscription,Midlands,5,11.78,12.93,False,False,False,-0.09342592484963597
+CONS_09737,broadband,Wales,6,25.75,26.44,False,False,False,-0.08471049320321228
+CONS_07728,broadband,North East,24,32.29,33.87,False,False,False,-0.12227879458903701
+CONS_01026,broadband,Midlands,8,24.63,25.5,False,False,False,-0.13708564554924169
+CONS_04557,subscription,London,17,11.24,11.69,False,False,False,-0.09094368803516412
+CONS_09140,broadband,Midlands,1,29.44,31.15,False,False,False,-0.11874817509583102
+CONS_04270,subscription,Scotland,53,9.51,9.67,False,False,False,-0.02808952701577805
+CONS_04417,mobile,South West,7,25.42,24.83,False,False,False,-0.10763551910065872
+CONS_04146,broadband,South West,28,28.44,28.13,False,False,False,-0.10781337330428403
+CONS_09852,mobile,South West,4,25.63,27.84,False,False,False,-0.11328014711474416
+CONS_02675,mobile,South East,16,26.67,26.85,False,False,False,-0.14574455417978743
+CONS_09620,mobile,Midlands,13,27.94,30.04,False,False,False,-0.11918458626873496
+CONS_09454,mobile,London,4,21.44,21.54,False,False,False,-0.12978012005903633
+CONS_06192,broadband,London,36,33.78,35.85,False,False,False,-0.06654469588133705
+CONS_03592,broadband,Wales,7,34.83,35.67,False,False,False,-0.05387891859331806
+CONS_03467,mobile,South East,2,28.01,29.57,False,False,False,-0.11750438327661522
+CONS_06515,broadband,London,120,45.31,50.82,False,False,True,0.10890440007370594
+CONS_06356,mobile,North West,5,21.31,22.42,False,False,False,-0.14805229068415277
+CONS_00870,broadband,North East,120,23.98,26.92,False,False,False,-0.010994474049375258
+CONS_03991,subscription,Midlands,8,13.1,13.36,False,False,False,-0.1082502650693713
+CONS_00234,mobile,South East,10,19.05,19.66,False,False,False,-0.14436673111683446
+CONS_06497,mobile,Midlands,6,17.01,16.67,False,False,False,-0.1160319583699378
+CONS_02333,subscription,Midlands,47,9.15,9.41,False,False,False,-0.03173334756710322
+CONS_04003,subscription,Midlands,6,14.91,17.37,False,False,False,-0.07390966244066327
+CONS_01364,broadband,South East,18,28.06,29.77,False,False,False,-0.15020648328644615
+CONS_02545,mobile,North West,15,25.15,24.1,False,False,False,-0.13131265886954407
+CONS_07349,broadband,London,30,25.61,25.42,False,False,False,-0.09983309685321762
+CONS_01037,broadband,North West,15,29.96,31.87,False,False,False,-0.14559770889476953
+CONS_02636,mobile,Wales,8,26.42,25.96,False,False,False,-0.06627501646015654
+CONS_02604,subscription,London,60,14.06,18.11,True,True,True,0.017355971029143435
+CONS_03725,subscription,South West,10,16.4,16.31,False,False,False,-0.07836747554784418
+CONS_06916,subscription,North West,5,10.37,10.66,False,False,False,-0.09288509973125186
+CONS_02965,broadband,North West,17,34.3,35.2,False,False,False,-0.12171366813263534
+CONS_03821,subscription,North East,36,12.45,15.91,False,False,False,-0.024661583724281955
+CONS_03105,mobile,South East,23,21.88,24.26,False,False,False,-0.14576769787468008
+CONS_05412,subscription,Midlands,11,9.77,9.02,False,False,False,-0.039461794622098645
+CONS_09982,broadband,North West,14,33.91,35.02,False,False,False,-0.12644169004377154
+CONS_02417,broadband,South West,17,41.23,44.45,False,False,False,-0.02523863707142404
+CONS_05506,broadband,Midlands,15,38.56,42.48,False,False,False,-0.04855848086278325
+CONS_04219,subscription,Midlands,7,13.53,13.36,False,False,False,-0.10331116219084857
+CONS_09164,mobile,London,61,19.05,23.38,True,True,False,-0.04160491637268038
+CONS_05939,mobile,Midlands,120,17.24,21.45,True,True,True,0.020375080576259474
+CONS_08241,broadband,North West,5,26.74,28.14,False,False,False,-0.14900414477949203
+CONS_04307,mobile,South East,3,21.75,25.11,False,False,False,-0.12537304884031336
+CONS_08854,mobile,Midlands,67,23.74,28.03,True,True,False,-0.07396238535939004
+CONS_01196,broadband,Wales,8,22.61,27.21,False,False,False,-0.05657870953521826
+CONS_00755,mobile,Wales,10,19.67,18.11,False,False,False,-0.05726545926958293
+CONS_05657,subscription,South East,16,7.85,9.06,False,False,False,-0.0357079282950431
+CONS_03118,mobile,North East,5,27.25,28.97,False,False,False,-0.1277507522039421
+CONS_05224,broadband,North West,6,31.17,31.98,False,False,False,-0.13255256528587955
+CONS_09948,broadband,London,5,24.97,27.97,False,False,False,-0.11689665948498862
+CONS_08886,broadband,Midlands,90,26.62,30.11,False,False,False,-0.04641295355212072
+CONS_05089,subscription,London,24,8.93,9.5,False,False,False,-0.03972130768054816
+CONS_00685,mobile,Midlands,8,31.1,36.38,False,False,False,-0.06147905263002784
+CONS_00327,subscription,South East,22,19.29,20.03,False,False,False,-0.08873908154900578
+CONS_07766,broadband,South East,1,28.91,33.0,False,False,False,-0.11206467294985212
+CONS_04936,broadband,London,1,30.84,31.58,False,False,False,-0.09654185758236816
+CONS_07659,broadband,South East,6,26.57,27.03,False,False,False,-0.13988786605732634
+CONS_09303,broadband,South West,2,26.02,23.7,False,False,False,-0.06856590136379143
+CONS_02687,broadband,Midlands,9,38.17,44.68,False,False,False,-0.02662295982674845
+CONS_00548,broadband,North West,17,25.83,27.29,False,False,False,-0.15240783296469973
+CONS_07287,subscription,Scotland,10,8.58,8.44,False,False,False,-0.04185924470681657
+CONS_05176,broadband,South West,55,26.19,33.42,True,True,False,-0.023026353521689136
+CONS_07074,mobile,South East,46,32.99,43.68,True,True,True,0.0434015662667786
+CONS_00868,subscription,London,2,14.27,14.31,False,False,False,-0.07239283070397728
+CONS_07825,subscription,Scotland,80,12.13,14.35,True,True,False,-0.014222988184114271
+CONS_03554,mobile,North East,22,19.98,18.66,False,False,False,-0.10336984739078708
+CONS_04514,broadband,Wales,32,22.95,24.36,False,False,False,-0.07618799729814257
+CONS_00714,subscription,London,21,19.92,21.73,False,False,False,-0.06646811629276811
+CONS_01959,subscription,Midlands,9,8.77,9.02,False,False,False,-0.055095535990294486
+CONS_01858,broadband,Scotland,19,30.48,35.2,False,False,False,-0.12204171904573402
+CONS_04609,broadband,Midlands,4,20.98,19.48,False,False,False,-0.06678830541238828
+CONS_07957,broadband,Midlands,15,25.57,26.89,False,False,False,-0.14484232426188487
+CONS_04203,broadband,South West,17,30.11,31.74,False,False,False,-0.1270711752379547
+CONS_05440,broadband,Wales,4,34.03,39.9,False,False,False,-0.017029900265682296
+CONS_03602,broadband,London,120,19.79,26.9,True,True,True,0.07434460666019971
+CONS_04578,broadband,London,12,40.87,44.61,False,False,False,-0.024070105013013987
+CONS_04239,mobile,Wales,78,12.97,15.25,False,False,True,0.0226325595610547
+CONS_04946,subscription,North West,7,12.84,12.41,False,False,False,-0.09636319693700812
+CONS_05037,subscription,South West,14,12.57,12.95,False,False,False,-0.09251897253864283
+CONS_09471,mobile,North West,35,35.94,39.39,False,False,False,-0.018829068455564424
+CONS_01254,mobile,London,19,13.09,14.81,False,False,False,-0.06972355194790447
+CONS_00956,subscription,North East,4,9.02,8.89,False,False,False,-0.03490375413261382
+CONS_03180,mobile,North East,23,27.06,27.47,False,False,False,-0.12810793053199948
+CONS_07160,broadband,Scotland,20,31.46,33.52,False,False,False,-0.13561417945422105
+CONS_01517,broadband,North East,37,29.36,34.32,False,False,False,-0.08940319984636208
+CONS_07022,subscription,London,65,13.93,18.13,True,True,True,0.022823886423094075
+CONS_03886,broadband,Scotland,8,22.14,24.35,False,False,False,-0.1326912236343119
+CONS_01618,mobile,London,18,18.65,20.05,False,False,False,-0.12994972468243676
+CONS_05901,subscription,London,6,12.08,13.56,False,False,False,-0.0764676161399741
+CONS_05050,subscription,North East,21,13.98,12.95,False,False,False,-0.06905836269254467
+CONS_01069,broadband,North West,9,25.29,27.74,False,False,False,-0.14461729536738976
+CONS_00957,subscription,North East,7,9.66,10.68,False,False,False,-0.07526118637452117
+CONS_03993,broadband,Scotland,66,41.49,41.3,False,False,True,0.0066335768209648815
+CONS_00756,broadband,North West,1,26.87,27.06,False,False,False,-0.12701068009152489
+CONS_00307,broadband,North West,6,39.16,40.08,False,False,False,-0.06374026262293853
+CONS_00076,broadband,Midlands,29,31.22,41.2,True,True,False,-0.007943619847706751
+CONS_00052,broadband,London,6,32.43,34.45,False,False,False,-0.10372188502936835
+CONS_07847,mobile,South West,50,26.51,35.91,True,True,True,0.007643795288550637
+CONS_08236,broadband,Midlands,15,23.16,23.23,False,False,False,-0.12199420532348337
+CONS_03705,broadband,London,6,30.88,32.77,False,False,False,-0.10761794095574823
+CONS_03657,broadband,North East,41,20.13,19.7,False,False,False,-0.06536971702685146
+CONS_09798,broadband,London,3,25.67,27.36,False,False,False,-0.12185932989387088
+CONS_06018,subscription,Midlands,24,7.94,7.83,False,False,False,-0.022928111635087678
+CONS_06423,mobile,Scotland,34,13.41,14.11,False,False,False,-0.0789949399839926
+CONS_02607,mobile,Wales,11,16.72,20.37,False,False,False,-0.05489259197273488
+CONS_01040,broadband,South West,12,28.31,28.06,False,False,False,-0.12217971294546964
+CONS_01774,subscription,Wales,11,10.68,10.7,False,False,False,-0.045410618908695466
+CONS_07155,subscription,North East,13,13.15,15.08,False,False,False,-0.08898416881757137
+CONS_06078,broadband,South East,22,26.96,27.34,False,False,False,-0.1420836758806896
+CONS_07837,broadband,London,38,27.14,28.14,False,False,False,-0.09740819167165277
+CONS_07015,broadband,South West,68,34.43,38.79,False,False,False,-0.019872529722533616
+CONS_02920,mobile,Wales,2,15.86,15.5,False,False,False,-0.04924820223840165
+CONS_09647,mobile,South West,4,29.65,24.95,False,False,False,-0.03869890837737289
+CONS_01488,mobile,South West,42,36.86,39.53,False,False,True,0.0016064218257266782
+CONS_08330,mobile,South East,16,23.62,25.21,False,False,False,-0.15237720412057298
+CONS_07327,subscription,South West,17,15.93,14.41,False,False,False,-0.04948060542044996
+CONS_03907,subscription,North West,120,19.1,17.44,False,False,True,0.04502784900853429
+CONS_06797,subscription,Scotland,14,13.31,14.22,False,False,False,-0.11911881981186684
+CONS_09687,subscription,North West,5,14.34,16.37,False,False,False,-0.09088098441410558
+CONS_07533,broadband,London,1,30.37,31.85,False,False,False,-0.09852980348794244
+CONS_09426,subscription,London,9,14.7,14.4,False,False,False,-0.08467429281113681
+CONS_05906,subscription,London,43,15.28,18.15,False,False,False,-0.029450537815642108
+CONS_09347,broadband,Midlands,17,35.24,39.98,False,False,False,-0.07332882411769798
+CONS_02067,mobile,London,42,20.45,24.45,False,False,False,-0.0789113863345775
+CONS_01993,broadband,South West,77,45.24,49.18,False,False,True,0.07572931503658875
+CONS_03377,broadband,South East,45,28.72,29.85,False,False,False,-0.10769806373483914
+CONS_09911,broadband,London,14,26.45,24.8,False,False,False,-0.09966019346425281
+CONS_03959,broadband,Midlands,40,31.88,39.44,True,True,False,-0.038744109692155915
+CONS_01299,mobile,Midlands,30,30.15,38.03,True,True,False,-0.01627876148029994
+CONS_08090,broadband,South East,3,28.3,25.88,False,False,False,-0.0917404476398267
+CONS_06917,broadband,South East,13,25.64,25.65,False,False,False,-0.1387859418673495
+CONS_08208,broadband,South West,61,39.18,38.6,False,False,True,0.015213673374796732
+CONS_04704,broadband,London,72,23.62,28.17,False,False,False,-0.04445901800122065
+CONS_08481,broadband,Wales,13,35.38,35.51,False,False,False,-0.0489794882911484
+CONS_05638,mobile,South East,18,19.86,20.78,False,False,False,-0.15029911028640586
+CONS_05743,subscription,Midlands,19,8.46,9.28,False,False,False,-0.049198718673227115
+CONS_06101,mobile,Midlands,5,13.55,13.53,False,False,False,-0.09452725831214887
+CONS_02894,mobile,London,29,30.56,27.43,False,False,False,-0.04064217265137915
+CONS_04953,broadband,North West,18,27.15,29.28,False,False,False,-0.15014778302963433
+CONS_03918,mobile,Scotland,6,28.34,35.66,False,False,False,-0.04140545254870265
+CONS_09412,broadband,London,64,24.75,31.18,True,True,False,-0.021937587258943902
+CONS_01538,mobile,London,11,25.88,21.81,False,False,False,-0.07710446362624312
+CONS_08225,broadband,North West,20,31.74,38.32,False,False,False,-0.08591987193715178
+CONS_04122,subscription,South East,4,11.89,11.43,False,False,False,-0.07355745175857897
+CONS_00481,mobile,North East,14,26.06,24.06,False,False,False,-0.11014056260891703
+CONS_09998,broadband,South West,46,40.01,37.38,False,False,True,0.011602240147707277
+CONS_03915,broadband,North East,24,28.14,28.63,False,False,False,-0.13425997931831724
+CONS_05915,broadband,North East,22,26.91,27.93,False,False,False,-0.13965521980855317
+CONS_05652,mobile,Midlands,4,18.23,17.6,False,False,False,-0.1144332450880241
+CONS_09292,subscription,South West,23,15.15,14.84,False,False,False,-0.07592116096930551
+CONS_03866,broadband,London,61,26.56,33.45,True,True,False,-0.021896709471692866
+CONS_06295,broadband,North West,12,30.94,33.57,False,False,False,-0.13491635452262746
+CONS_00531,mobile,Midlands,29,18.3,17.18,False,False,False,-0.08604836000575805
+CONS_05291,broadband,Midlands,38,29.3,34.76,False,False,False,-0.07902695945767546
+CONS_06421,broadband,North East,12,36.89,40.25,False,False,False,-0.0786512859283805
+CONS_02991,subscription,North West,21,12.14,12.4,False,False,False,-0.10981316742716907
+CONS_08627,broadband,North West,18,29.05,31.99,False,False,False,-0.14529005216963486
+CONS_01070,mobile,North West,5,23.1,27.48,False,False,False,-0.12174139746015783
+CONS_06700,mobile,North East,16,24.13,20.93,False,False,False,-0.08890061699184237
+CONS_09848,broadband,Wales,8,36.42,34.16,False,False,False,-0.017234166372763315
+CONS_01699,subscription,Midlands,53,16.08,22.83,True,True,True,0.03593130959484503
+CONS_04890,subscription,North West,2,9.92,11.71,False,False,False,-0.06167071877748709
+CONS_01566,mobile,North West,18,16.05,15.45,False,False,False,-0.11146927399007395
+CONS_00163,broadband,South East,13,26.6,29.57,False,False,False,-0.1442973227480242
+CONS_08321,broadband,South West,32,28.41,30.41,False,False,False,-0.10965599265376708
+CONS_05585,mobile,Midlands,22,17.3,19.85,False,False,False,-0.11988342535994823
+CONS_07537,mobile,Midlands,18,17.77,20.71,False,False,False,-0.11512030136943208
+CONS_06013,broadband,Midlands,66,29.87,29.23,False,False,False,-0.05821015983972433
+CONS_09959,mobile,London,3,15.73,15.38,False,False,False,-0.08321014704621565
+CONS_05523,mobile,North West,79,26.98,39.48,True,True,True,0.05204176336558308
+CONS_04397,broadband,Wales,11,26.19,30.15,False,False,False,-0.08149233078140944
+CONS_09143,broadband,South East,34,26.04,32.74,True,True,False,-0.0727704153433319
+CONS_07134,mobile,London,30,20.64,23.66,False,False,False,-0.10236639408182385
+CONS_00280,subscription,North East,30,12.19,14.99,False,False,False,-0.05061222111759189
+CONS_04547,subscription,North West,14,16.93,19.99,False,False,False,-0.07081093514691006
+CONS_04465,broadband,Midlands,5,33.87,34.31,False,False,False,-0.11215665357922477
+CONS_04277,mobile,Midlands,27,21.6,21.77,False,False,False,-0.13308160503112582
+CONS_01625,broadband,Midlands,46,28.76,39.43,True,True,False,-0.0059286694005518115
+CONS_03917,mobile,London,2,18.03,16.22,False,False,False,-0.06218259007946847
+CONS_07638,subscription,London,1,11.66,13.6,False,False,False,-0.04785358812097351
+CONS_07747,mobile,South West,12,22.59,23.63,False,False,False,-0.12989315659360434
+CONS_02732,broadband,London,24,20.45,19.7,False,False,False,-0.07422384644602464
+CONS_06881,broadband,South East,16,27.14,25.36,False,False,False,-0.11541395589291015
+CONS_04940,broadband,South East,23,32.78,35.39,False,False,False,-0.1247958788769975
+CONS_05270,mobile,London,44,18.59,20.0,False,False,False,-0.09555339927403927
+CONS_08294,broadband,South East,82,32.95,37.98,False,False,False,-0.019729213506125887
+CONS_02033,broadband,Midlands,32,33.98,34.5,False,False,False,-0.09130490718506612
+CONS_05604,subscription,London,24,14.79,16.56,False,False,False,-0.07095895025828602
+CONS_07966,subscription,Midlands,17,14.83,15.61,False,False,False,-0.10984414263503095
+CONS_08991,subscription,Scotland,16,17.52,18.68,False,False,False,-0.100404229332696
+CONS_00003,subscription,South East,9,12.91,11.25,False,False,False,-0.030745628003204906
+CONS_04731,broadband,Midlands,1,36.21,33.32,False,False,False,-0.048388396603425976
+CONS_04192,mobile,Midlands,4,25.16,26.34,False,False,False,-0.13412215874522632
+CONS_07532,broadband,Midlands,19,33.64,39.91,False,False,False,-0.07166600258651684
+CONS_02008,broadband,South West,20,23.03,25.49,False,False,False,-0.11822632065779826
+CONS_00888,broadband,South West,6,22.92,25.46,False,False,False,-0.10913895654969524
+CONS_05504,mobile,North East,71,24.0,24.13,False,False,False,-0.06094155962306369
+CONS_08512,mobile,North West,9,13.93,15.41,False,False,False,-0.10334035340691722
+CONS_07615,mobile,South East,26,29.85,33.78,False,False,False,-0.08695175818255974
+CONS_07660,mobile,London,31,25.77,24.87,False,False,False,-0.0926909881523103
+CONS_01015,broadband,North East,9,25.54,25.08,False,False,False,-0.12692067421175052
+CONS_00583,broadband,North West,2,22.89,27.14,False,False,False,-0.10095977894436886
+CONS_03920,mobile,North East,8,22.88,24.96,False,False,False,-0.13746090561059388
+CONS_07708,mobile,South East,70,18.82,19.4,False,False,False,-0.07988529859734045
+CONS_01044,mobile,South East,12,25.95,28.09,False,False,False,-0.14646144193998217
+CONS_08351,subscription,North West,20,11.66,10.57,False,False,False,-0.05260781724790631
+CONS_02552,mobile,South East,1,26.54,26.87,False,False,False,-0.12419359469292074
+CONS_04824,mobile,South West,18,24.13,26.34,False,False,False,-0.12393875350609529
+CONS_01797,mobile,North West,32,23.58,25.72,False,False,False,-0.12840540562968544
+CONS_04434,broadband,South West,11,32.82,32.77,False,False,False,-0.1050216033965733
+CONS_02955,mobile,South West,44,36.07,34.57,False,False,True,0.0033051667241329463
+CONS_07588,subscription,London,19,12.54,15.46,False,False,False,-0.04476083006191145
+CONS_06253,mobile,North West,21,24.26,25.27,False,False,False,-0.14112144857069475
+CONS_03286,mobile,Wales,8,25.03,26.62,False,False,False,-0.08166172353300255
+CONS_06289,broadband,London,56,27.69,29.28,False,False,False,-0.07022831864749696
+CONS_06907,mobile,North West,24,25.99,25.15,False,False,False,-0.12209849241136611
+CONS_02273,subscription,South East,20,8.77,10.29,False,False,False,-0.04396241539608714
+CONS_05624,mobile,Midlands,7,22.66,25.89,False,False,False,-0.12786090588466636
+CONS_07864,mobile,Scotland,2,21.27,20.01,False,False,False,-0.10691127987909188
+CONS_04563,broadband,North East,45,32.38,41.1,True,True,False,-0.01580291396195932
+CONS_02063,mobile,Midlands,18,23.42,25.01,False,False,False,-0.1444512073459872
+CONS_01159,mobile,London,3,23.48,24.62,False,False,False,-0.12368569313607625
+CONS_03745,broadband,Scotland,13,36.7,37.6,False,False,False,-0.09054284194335038
+CONS_07721,broadband,Midlands,14,24.86,24.97,False,False,False,-0.13472673602350832
+CONS_07181,broadband,Midlands,15,22.2,20.07,False,False,False,-0.07261303861758861
+CONS_09654,mobile,South West,2,18.36,18.14,False,False,False,-0.09561960154463578
+CONS_05851,subscription,South East,14,12.22,11.94,False,False,False,-0.09627247894783886
+CONS_06958,mobile,North West,8,26.9,27.8,False,False,False,-0.1381313774699553
+CONS_03675,subscription,Scotland,23,12.69,13.91,False,False,False,-0.11198723186539306
+CONS_02294,broadband,Wales,24,32.38,34.11,False,False,False,-0.06799590799739785
+CONS_07787,mobile,North West,1,15.28,14.97,False,False,False,-0.08894851081365196
+CONS_03237,subscription,London,90,12.32,12.92,False,False,True,0.000777662088261577
+CONS_03687,broadband,North West,16,26.78,27.26,False,False,False,-0.14736263275215816
+CONS_03870,mobile,South West,1,20.1,21.73,False,False,False,-0.10716614748504172
+CONS_00816,subscription,London,37,14.12,13.08,False,False,False,-0.033245843247029616
+CONS_08661,broadband,Scotland,5,32.71,34.18,False,False,False,-0.12723068218165162
+CONS_06747,mobile,London,8,21.99,23.56,False,False,False,-0.13347627367186882
+CONS_01631,mobile,Midlands,6,29.37,29.24,False,False,False,-0.10793550925751416
+CONS_02980,subscription,Midlands,14,7.46,8.32,False,False,False,-0.02866893084794253
+CONS_04321,subscription,Scotland,22,12.01,12.17,False,False,False,-0.1062019239514076
+CONS_01357,mobile,North West,3,19.15,20.14,False,False,False,-0.14089297556867603
+CONS_07709,broadband,South West,14,33.13,38.18,False,False,False,-0.07840876383770484
+CONS_03661,broadband,Wales,1,34.12,36.64,False,False,False,-0.04327623134030911
+CONS_01429,subscription,London,54,12.82,12.79,False,False,False,-0.04014782735119338
+CONS_04189,broadband,Midlands,2,37.65,37.21,False,False,False,-0.060604959872852304
+CONS_09820,subscription,North East,51,12.25,13.86,False,False,False,-0.05807598045093354
+CONS_06056,broadband,North East,16,26.3,31.24,False,False,False,-0.12335254197834761
+CONS_07443,mobile,Wales,11,20.46,22.56,False,False,False,-0.08881802691661134
+CONS_04112,subscription,North West,2,11.07,11.72,False,False,False,-0.08997478717736951
+CONS_05986,broadband,London,53,23.66,29.46,True,True,False,-0.0367636203232542
+CONS_02105,mobile,Scotland,21,16.04,16.82,False,False,False,-0.12327892901209414
+CONS_08193,broadband,South East,15,25.27,24.89,False,False,False,-0.13270954799438528
+CONS_08152,mobile,London,2,27.52,29.06,False,False,False,-0.09691008954597691
+CONS_06537,broadband,North West,83,29.23,26.24,False,False,False,-0.012633137081699775
+CONS_06706,mobile,North West,22,29.26,30.35,False,False,False,-0.1120231042585691
+CONS_09932,mobile,Scotland,6,25.61,27.28,False,False,False,-0.14618275056426056
+CONS_06333,mobile,North East,5,24.4,23.23,False,False,False,-0.11475985868787819
+CONS_01008,broadband,Wales,42,34.79,47.51,True,True,True,0.06023540319469434
+CONS_02788,mobile,Midlands,21,25.33,26.75,False,False,False,-0.13739620500623856
+CONS_09157,mobile,Midlands,8,34.13,32.8,False,False,False,-0.055955608688303404
+CONS_05801,mobile,Midlands,16,29.34,27.76,False,False,False,-0.09774438116944978
+CONS_00270,broadband,South East,8,32.66,32.92,False,False,False,-0.12561147926914745
+CONS_04132,mobile,North East,6,23.94,22.24,False,False,False,-0.10655863194939608
+CONS_06183,subscription,North West,5,11.56,10.64,False,False,False,-0.05651923065056419
+CONS_06066,subscription,North East,2,11.48,13.36,False,False,False,-0.06565012824779826
+CONS_05877,mobile,South West,85,28.34,32.87,True,True,False,-0.006303542175286059
+CONS_03553,broadband,London,18,23.93,27.8,False,False,False,-0.11367590134956757
+CONS_02666,subscription,North West,38,12.19,11.7,False,False,False,-0.05938958896413693
+CONS_03829,subscription,North West,22,14.85,15.09,False,False,False,-0.112653039541039
+CONS_03810,subscription,North East,23,17.33,20.31,False,False,False,-0.06023615279921268
+CONS_08596,subscription,London,26,11.74,15.05,True,True,False,-0.011625050280808513
+CONS_00639,subscription,Scotland,16,13.49,14.0,False,False,False,-0.11875276397744366
+CONS_09145,broadband,Midlands,11,27.7,30.96,False,False,False,-0.13097059736421796
+CONS_08026,mobile,North East,47,42.03,40.9,False,False,True,0.03270461880468589
+CONS_07733,broadband,Midlands,4,26.63,27.5,False,False,False,-0.1360648910548517
+CONS_04110,mobile,Midlands,24,16.08,17.92,False,False,False,-0.10859721920144871
+CONS_09951,broadband,Midlands,24,24.41,27.64,False,False,False,-0.12418840949536364
+CONS_03124,mobile,North East,68,26.26,23.3,False,False,False,-0.020592342290174148
+CONS_09079,broadband,London,23,25.6,29.39,False,False,False,-0.10623819946162238
+CONS_06294,subscription,Wales,3,17.34,17.29,False,False,False,-0.03832539188160489
+CONS_05742,mobile,Scotland,7,24.06,22.87,False,False,False,-0.12612228836344497
+CONS_02242,broadband,South East,7,25.01,25.01,False,False,False,-0.13399484438248915
+CONS_05684,mobile,Midlands,21,34.45,36.66,False,False,False,-0.053799400445861845
+CONS_00026,broadband,London,20,32.14,34.4,False,False,False,-0.10727228004231637
+CONS_04776,broadband,London,11,28.08,30.28,False,False,False,-0.12314510312335647
+CONS_06099,mobile,North West,15,20.94,22.42,False,False,False,-0.15088178112996165
+CONS_05529,subscription,North West,20,16.32,18.39,False,False,False,-0.0858155218703417
+CONS_06792,broadband,Scotland,6,28.98,29.17,False,False,False,-0.141797317304107
+CONS_08051,broadband,South West,2,14.04,13.52,False,False,False,-0.021231672315909278
+CONS_01051,mobile,London,10,27.83,28.84,False,False,False,-0.11725186263635395
+CONS_02244,broadband,Midlands,9,33.22,35.89,False,False,False,-0.11748183504805149
+CONS_04344,broadband,North West,60,37.25,39.52,False,False,False,-0.023542632256947305
+CONS_08920,mobile,North West,17,24.23,28.73,False,False,False,-0.12634460804893416
+CONS_00524,mobile,North West,16,21.22,23.15,False,False,False,-0.14798017941644293
+CONS_06817,mobile,South West,1,26.76,22.71,False,False,False,-0.04372048172044518
+CONS_00436,broadband,North East,46,35.39,36.95,False,False,False,-0.05743432447996044
+CONS_04311,mobile,London,56,30.47,35.23,False,False,False,-0.019431039419486873
+CONS_05148,mobile,North East,5,14.05,13.4,False,False,False,-0.08376337621994873
+CONS_01158,broadband,South West,33,18.79,21.61,False,False,False,-0.06089456244838931
+CONS_04615,broadband,Midlands,8,29.0,30.03,False,False,False,-0.1370331744816563
+CONS_02912,broadband,South East,21,24.72,29.58,False,False,False,-0.11359086121433232
+CONS_04596,subscription,Wales,8,13.81,14.5,False,False,False,-0.0649408139596569
+CONS_04089,broadband,North West,23,23.2,24.95,False,False,False,-0.13775317739422627
+CONS_05041,broadband,North West,21,28.7,30.55,False,False,False,-0.14511347339111913
+CONS_02226,broadband,South East,10,30.16,35.19,False,False,False,-0.11815866202528569
+CONS_04746,broadband,Midlands,49,24.93,29.24,False,False,False,-0.08048823813817613
+CONS_06400,subscription,Scotland,5,13.08,12.58,False,False,False,-0.09111456545894048
+CONS_09827,subscription,North East,12,9.16,9.15,False,False,False,-0.05559529169370214
+CONS_01406,broadband,North West,9,32.64,34.56,False,False,False,-0.13221165234133592
+CONS_07541,subscription,North East,6,11.4,12.49,False,False,False,-0.09685564502406424
+CONS_03343,broadband,London,26,28.88,30.77,False,False,False,-0.1128102727745271
+CONS_08125,subscription,North West,4,7.64,8.09,False,False,False,-0.03883053007854498
+CONS_05708,subscription,North East,2,15.66,15.59,False,False,False,-0.07999938124808637
+CONS_09767,broadband,South East,10,28.22,30.65,False,False,False,-0.14708031092043222
+CONS_08837,mobile,London,101,24.5,29.76,True,True,True,0.009731560758447055
+CONS_06144,mobile,North East,20,16.93,18.22,False,False,False,-0.1253230247736989
+CONS_04897,broadband,London,11,29.52,31.56,False,False,False,-0.12220952466670693
+CONS_09430,subscription,North East,14,13.97,13.57,False,False,False,-0.10058993455167614
+CONS_03357,mobile,South East,15,17.41,17.58,False,False,False,-0.13211064021564495
+CONS_02433,mobile,London,85,17.54,17.56,False,False,False,-0.030530735468169756
+CONS_02856,subscription,Wales,4,10.8,11.14,False,False,False,-0.03541493442865096
+CONS_00857,mobile,Wales,10,25.87,26.29,False,False,False,-0.07758023162919381
+CONS_08407,broadband,South East,28,28.87,35.01,True,True,False,-0.09068343893477004
+CONS_09072,broadband,North East,17,19.09,19.62,False,False,False,-0.1027449127909818
+CONS_02490,mobile,South East,56,18.94,24.11,True,True,False,-0.05998286900515515
+CONS_03271,subscription,South East,14,12.34,12.84,False,False,False,-0.11354078820730429
+CONS_03451,mobile,North West,3,22.28,25.02,False,False,False,-0.13349515588536398
+CONS_01033,mobile,North East,8,25.19,30.22,False,False,False,-0.10405760654751961
+CONS_05069,broadband,London,4,23.64,25.6,False,False,False,-0.12269958167600836
+CONS_03322,mobile,London,2,17.2,17.6,False,False,False,-0.1010530638365772
+CONS_05213,subscription,Wales,7,12.4,13.21,False,False,False,-0.05886514070654336
+CONS_01932,mobile,Scotland,55,18.17,21.6,False,False,False,-0.0832420171246836
+CONS_05493,broadband,South West,5,24.15,25.03,False,False,False,-0.11730259647462588
+CONS_09217,subscription,South West,23,12.25,12.45,False,False,False,-0.0858280034711163
+CONS_07310,broadband,South West,2,37.0,44.83,False,False,True,0.0018017500847115064
+CONS_08809,subscription,South West,5,15.06,14.29,False,False,False,-0.06484939138206869
+CONS_00357,subscription,North West,4,12.0,13.47,False,False,False,-0.09220446990005715
+CONS_00168,subscription,Midlands,17,10.02,10.82,False,False,False,-0.0929131892955753
+CONS_06010,subscription,Midlands,41,10.18,10.64,False,False,False,-0.06370233118748458
+CONS_08116,subscription,London,15,15.09,17.84,False,False,False,-0.061127764569598675
+CONS_00213,broadband,London,5,25.02,28.45,False,False,False,-0.11165577848529512
+CONS_04060,subscription,London,120,10.92,13.8,True,True,True,0.07661969258041856
+CONS_06771,broadband,North East,120,36.06,35.93,False,False,True,0.0403610086117967
+CONS_00603,subscription,South West,23,11.67,12.42,False,False,False,-0.08350618184689507
+CONS_01872,mobile,Scotland,34,19.97,21.93,False,False,False,-0.125137560755053
+CONS_06305,mobile,South West,10,23.2,24.02,False,False,False,-0.12519365266424148
+CONS_08099,mobile,Midlands,82,18.83,26.48,True,True,True,0.024658856077367064
+CONS_04775,broadband,South West,58,37.03,36.79,False,False,False,-0.008810622889439235
+CONS_02234,subscription,London,45,9.21,11.37,False,False,True,0.009993365446170133
+CONS_03651,broadband,Midlands,5,34.33,33.59,False,False,False,-0.10134941231757799
+CONS_00375,broadband,Midlands,14,31.2,32.23,False,False,False,-0.13154403597764946
+CONS_04076,mobile,North West,48,13.09,13.03,False,False,False,-0.05761673559218228
+CONS_09753,broadband,South East,31,19.33,22.26,False,False,False,-0.0832178421162793
+CONS_05374,mobile,South East,20,35.61,37.95,False,False,False,-0.04838643178097313
+CONS_04030,subscription,Midlands,10,11.26,12.58,False,False,False,-0.08865957421589638
+CONS_01879,mobile,London,111,21.39,25.04,True,True,False,-0.005128612561227874
+CONS_05196,subscription,Midlands,3,14.81,15.96,False,False,False,-0.09543793306630155
+CONS_07056,broadband,South East,14,29.31,31.51,False,False,False,-0.1491033557213131
+CONS_01671,broadband,North West,4,19.95,23.67,False,False,False,-0.08777713748535343
+CONS_03833,mobile,North West,13,23.45,25.66,False,False,False,-0.1494146025849094
+CONS_08466,mobile,North West,23,24.14,24.83,False,False,False,-0.13939644053669958
+CONS_02152,broadband,South West,9,45.31,43.98,False,False,True,0.0066993998057299775
+CONS_09648,mobile,South East,55,25.42,26.79,False,False,False,-0.10586607315454394
+CONS_03170,mobile,South East,71,20.32,20.09,False,False,False,-0.07270828806352042
+CONS_05977,subscription,North West,61,9.27,10.5,False,False,False,-0.019376946412302587
+CONS_08061,mobile,Midlands,10,21.29,21.99,False,False,False,-0.1468363850744852
+CONS_01974,broadband,South East,21,30.57,29.51,False,False,False,-0.11723433450620274
+CONS_01755,broadband,Wales,17,30.95,34.38,False,False,False,-0.0744197226789029
+CONS_02958,broadband,North West,17,26.54,28.16,False,False,False,-0.15281175514576345
+CONS_07978,subscription,North East,18,8.29,9.38,False,False,False,-0.0383146442974881
+CONS_08052,subscription,South East,8,9.75,11.03,False,False,False,-0.07639443440742394
+CONS_09180,broadband,South East,49,36.54,36.62,False,False,False,-0.03906846653822893
+CONS_07213,mobile,North West,6,17.25,18.23,False,False,False,-0.13447431898041096
+CONS_05848,broadband,London,9,19.97,20.91,False,False,False,-0.09658970580725451
+CONS_06948,mobile,North West,10,28.05,29.58,False,False,False,-0.12580386971883006
+CONS_08212,subscription,Midlands,2,11.19,11.36,False,False,False,-0.07761061050910689
+CONS_05204,mobile,Midlands,101,26.58,27.03,False,False,False,-0.03033505039097273
+CONS_03231,mobile,North West,2,16.36,16.98,False,False,False,-0.11255342337298568
+CONS_08505,mobile,Wales,19,27.71,27.62,False,False,False,-0.06260743039137096
+CONS_02322,broadband,North West,13,36.26,35.9,False,False,False,-0.09536111904833494
+CONS_06482,mobile,Midlands,27,16.99,18.63,False,False,False,-0.11914380710961897
+CONS_08698,broadband,Midlands,15,27.35,24.37,False,False,False,-0.0876337248178582
+CONS_08317,subscription,London,32,15.57,18.14,True,True,False,-0.03728224642251621
+CONS_05740,broadband,North West,4,33.6,38.17,False,False,False,-0.0957810854222721
+CONS_03653,broadband,London,36,21.7,21.26,False,False,False,-0.06612602680969804
+CONS_01207,mobile,North West,9,23.85,28.06,False,False,False,-0.1262131064701662
+CONS_01382,broadband,London,39,25.15,33.15,True,True,False,-0.017088989888792927
+CONS_03805,broadband,Scotland,6,29.7,24.74,False,False,False,-0.06540551155955598
+CONS_02162,broadband,Wales,1,32.46,31.97,False,False,False,-0.04751175452143985
+CONS_03689,mobile,North West,46,25.3,24.06,False,False,False,-0.09075917217744961
+CONS_04877,broadband,South West,18,21.03,21.98,False,False,False,-0.10716387913874753
+CONS_04181,mobile,North West,25,18.62,19.51,False,False,False,-0.13742275154575245
+CONS_09224,mobile,Scotland,5,16.69,15.83,False,False,False,-0.1033574035495482
+CONS_01717,broadband,South East,9,33.95,32.49,False,False,False,-0.10183114813388427
+CONS_06110,mobile,South West,23,28.75,27.96,False,False,False,-0.08863266751828774
+CONS_03016,mobile,London,23,24.71,25.48,False,False,False,-0.12560373586901386
+CONS_03246,mobile,South West,18,25.3,23.8,False,False,False,-0.0996687477257146
+CONS_09108,mobile,Scotland,22,17.07,16.12,False,False,False,-0.11021610810799581
+CONS_05858,mobile,London,17,25.85,26.47,False,False,False,-0.12907099137621608
+CONS_00879,mobile,South East,16,17.76,19.52,False,False,False,-0.13935860006804635
