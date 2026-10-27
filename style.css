@@ -858,6 +858,12 @@ section {
 
 .social-media a {
     margin: 0 15px;
+    color: #fff;
+    text-decoration: none;
+}
+
+.social-media a:hover {
+    color: #bbb;
 }
 
 .social-media img {
